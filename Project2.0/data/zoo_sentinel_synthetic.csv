@@ -1,0 +1,2801 @@
+Animal_Name,Behaviour,Intensity,Abnormality_Percentage,Duration_Minutes,Hazard_Probability
+Giraffe,Repeated agitation,6,61,2,77
+Giraffe,Unusual silence,4,46,7,56
+Crocodile,Sudden movement,4,35,10,57
+Flamingo,Abnormal grouping,7,46,4,78
+Crocodile,Repeated agitation,1,7,1,25
+Elephant,Repeated agitation,1,11,16,53
+Elephant,Abnormal grouping,6,13,4,52
+Crocodile,Abnormal vocalization,7,32,3,51
+Flamingo,Burrowing animals emerging,5,63,42,68
+Giraffe,Sudden fleeing,7,85,7,97
+Giraffe,Repeated agitation,10,53,18,99
+Flamingo,Abnormal grouping,9,79,7,100
+Elephant,Unusual silence,7,69,45,91
+Giraffe,Burrowing animals emerging,2,33,8,47
+Giraffe,Burrowing animals emerging,4,53,9,56
+Giraffe,Burrowing animals emerging,8,76,17,89
+Crocodile,Repeated agitation,4,15,2,39
+Flamingo,Burrowing animals emerging,4,45,4,61
+Flamingo,Unusual silence,8,13,4,53
+Crocodile,Sudden fleeing,7,20,7,74
+Flamingo,Repeated agitation,6,35,2,62
+Giraffe,Sudden movement,9,76,1,95
+Flamingo,Sudden fleeing,3,6,2,48
+Elephant,Unusual silence,9,34,12,69
+Elephant,Unusual silence,6,33,2,63
+Flamingo,Abnormal grouping,2,29,12,46
+Crocodile,Sudden movement,2,14,3,44
+Flamingo,Repeated agitation,9,69,5,81
+Flamingo,Abnormal vocalization,3,31,8,52
+Flamingo,Abnormal vocalization,3,68,1,64
+Giraffe,Sudden fleeing,1,65,4,56
+Flamingo,Sudden fleeing,5,75,5,76
+Flamingo,Abnormal grouping,9,32,19,72
+Giraffe,Abnormal vocalization,10,58,24,88
+Crocodile,Abnormal vocalization,2,77,9,69
+Flamingo,Repeated agitation,5,50,8,80
+Crocodile,Sudden movement,4,63,1,58
+Giraffe,Repeated agitation,8,45,8,77
+Crocodile,Abnormal vocalization,4,77,11,77
+Elephant,Repeated agitation,8,65,3,99
+Crocodile,Repeated agitation,1,95,6,62
+Giraffe,Sudden fleeing,4,33,27,73
+Elephant,Sudden fleeing,6,9,2,65
+Giraffe,Abnormal vocalization,8,99,16,93
+Giraffe,Sudden fleeing,8,55,11,86
+Elephant,Sudden movement,9,76,21,100
+Elephant,Sudden fleeing,2,94,4,63
+Elephant,Abnormal grouping,7,84,15,79
+Giraffe,Repeated agitation,8,24,13,64
+Giraffe,Burrowing animals emerging,9,78,14,72
+Elephant,Repeated agitation,6,66,6,82
+Giraffe,Unusual silence,5,23,4,44
+Giraffe,Sudden movement,8,63,2,82
+Flamingo,Abnormal grouping,7,68,3,74
+Flamingo,Sudden fleeing,1,72,12,62
+Elephant,Abnormal vocalization,4,15,4,49
+Giraffe,Burrowing animals emerging,6,33,3,64
+Elephant,Abnormal grouping,1,49,23,52
+Flamingo,Unusual silence,5,96,12,63
+Crocodile,Abnormal grouping,7,21,13,58
+Flamingo,Abnormal grouping,1,77,3,57
+Flamingo,Sudden fleeing,3,94,8,74
+Crocodile,Sudden fleeing,10,60,12,94
+Crocodile,Sudden movement,9,30,2,78
+Giraffe,Burrowing animals emerging,3,64,5,45
+Elephant,Abnormal grouping,2,25,5,45
+Giraffe,Repeated agitation,8,83,2,99
+Flamingo,Sudden fleeing,5,59,5,61
+Crocodile,Sudden fleeing,10,57,18,100
+Crocodile,Unusual silence,6,46,7,46
+Crocodile,Unusual silence,2,11,11,31
+Giraffe,Abnormal vocalization,9,40,3,77
+Elephant,Abnormal grouping,3,87,3,75
+Crocodile,Burrowing animals emerging,10,31,3,59
+Crocodile,Abnormal grouping,3,9,14,42
+Flamingo,Abnormal vocalization,9,58,5,83
+Giraffe,Sudden fleeing,1,6,6,47
+Flamingo,Unusual silence,5,79,1,62
+Flamingo,Repeated agitation,10,81,4,99
+Crocodile,Burrowing animals emerging,9,43,14,72
+Giraffe,Repeated agitation,4,50,3,58
+Giraffe,Unusual silence,5,33,6,62
+Elephant,Abnormal grouping,1,80,8,62
+Elephant,Sudden movement,2,7,14,50
+Giraffe,Repeated agitation,10,98,33,100
+Flamingo,Burrowing animals emerging,8,67,11,74
+Flamingo,Sudden movement,4,9,2,40
+Giraffe,Sudden movement,8,78,12,91
+Elephant,Unusual silence,7,36,11,75
+Flamingo,Repeated agitation,3,23,25,56
+Flamingo,Burrowing animals emerging,9,48,14,70
+Elephant,Abnormal vocalization,6,8,9,55
+Elephant,Sudden fleeing,3,39,3,59
+Crocodile,Repeated agitation,3,60,5,62
+Crocodile,Unusual silence,5,81,2,68
+Giraffe,Repeated agitation,3,27,30,66
+Giraffe,Abnormal vocalization,6,35,6,64
+Flamingo,Abnormal vocalization,3,18,8,49
+Crocodile,Abnormal vocalization,6,19,7,42
+Flamingo,Sudden movement,3,72,10,66
+Elephant,Abnormal vocalization,10,17,12,61
+Flamingo,Unusual silence,7,60,22,66
+Flamingo,Repeated agitation,6,89,2,90
+Crocodile,Burrowing animals emerging,7,32,15,63
+Flamingo,Sudden fleeing,5,27,8,49
+Flamingo,Repeated agitation,7,94,10,90
+Giraffe,Abnormal vocalization,9,62,11,88
+Flamingo,Burrowing animals emerging,6,76,27,79
+Flamingo,Repeated agitation,5,45,17,67
+Flamingo,Sudden movement,4,14,11,58
+Elephant,Abnormal grouping,4,23,28,56
+Crocodile,Unusual silence,7,75,15,80
+Elephant,Sudden movement,8,85,56,100
+Flamingo,Unusual silence,9,37,26,74
+Crocodile,Repeated agitation,7,69,21,84
+Crocodile,Sudden fleeing,6,54,6,65
+Giraffe,Unusual silence,4,65,7,52
+Elephant,Unusual silence,8,41,6,64
+Flamingo,Abnormal vocalization,9,37,6,69
+Crocodile,Abnormal vocalization,9,99,7,99
+Crocodile,Abnormal vocalization,7,85,3,80
+Flamingo,Sudden movement,1,65,2,59
+Crocodile,Burrowing animals emerging,8,57,5,69
+Flamingo,Abnormal grouping,5,28,23,63
+Giraffe,Sudden fleeing,6,88,5,95
+Elephant,Abnormal vocalization,3,87,6,74
+Giraffe,Sudden movement,1,93,10,59
+Crocodile,Repeated agitation,8,83,1,96
+Crocodile,Burrowing animals emerging,6,12,7,46
+Elephant,Burrowing animals emerging,7,94,16,89
+Elephant,Abnormal grouping,8,20,13,66
+Crocodile,Sudden movement,6,52,2,54
+Elephant,Sudden fleeing,8,100,4,100
+Elephant,Sudden fleeing,5,63,8,88
+Flamingo,Sudden fleeing,2,75,11,78
+Elephant,Sudden fleeing,9,16,2,77
+Flamingo,Sudden fleeing,7,94,4,100
+Flamingo,Unusual silence,10,60,6,92
+Crocodile,Unusual silence,1,71,9,48
+Giraffe,Abnormal vocalization,4,69,10,73
+Crocodile,Sudden movement,3,61,2,53
+Elephant,Abnormal vocalization,10,22,22,79
+Crocodile,Sudden fleeing,10,30,22,82
+Flamingo,Sudden fleeing,3,46,3,53
+Giraffe,Burrowing animals emerging,1,48,17,53
+Flamingo,Sudden movement,8,75,16,100
+Flamingo,Sudden fleeing,5,97,2,90
+Flamingo,Sudden movement,10,50,7,71
+Elephant,Burrowing animals emerging,10,12,3,58
+Elephant,Repeated agitation,7,55,6,79
+Elephant,Sudden movement,6,27,3,54
+Giraffe,Unusual silence,10,41,6,72
+Flamingo,Sudden fleeing,5,75,3,75
+Flamingo,Burrowing animals emerging,4,46,5,47
+Giraffe,Sudden fleeing,7,54,4,83
+Crocodile,Abnormal grouping,4,56,8,51
+Flamingo,Burrowing animals emerging,1,60,4,42
+Flamingo,Sudden movement,2,66,12,55
+Giraffe,Burrowing animals emerging,1,5,4,21
+Flamingo,Abnormal vocalization,4,94,9,75
+Flamingo,Sudden fleeing,6,55,20,82
+Giraffe,Unusual silence,9,19,3,73
+Giraffe,Abnormal grouping,5,35,23,52
+Elephant,Sudden movement,1,64,5,64
+Crocodile,Abnormal grouping,2,68,9,47
+Elephant,Burrowing animals emerging,2,63,20,57
+Giraffe,Abnormal grouping,7,54,13,65
+Flamingo,Sudden movement,2,67,15,74
+Flamingo,Sudden movement,9,100,14,100
+Flamingo,Burrowing animals emerging,4,71,14,65
+Flamingo,Unusual silence,4,84,12,62
+Flamingo,Repeated agitation,1,59,12,57
+Elephant,Sudden movement,3,28,9,66
+Crocodile,Abnormal grouping,10,98,4,91
+Crocodile,Burrowing animals emerging,4,5,5,39
+Flamingo,Unusual silence,6,99,6,77
+Flamingo,Sudden fleeing,7,12,26,77
+Giraffe,Repeated agitation,8,58,26,91
+Elephant,Unusual silence,5,60,31,69
+Giraffe,Sudden movement,6,47,4,73
+Flamingo,Sudden fleeing,1,62,7,60
+Giraffe,Unusual silence,1,13,17,23
+Flamingo,Sudden movement,3,21,7,41
+Elephant,Repeated agitation,7,39,3,84
+Crocodile,Abnormal grouping,4,17,16,41
+Giraffe,Burrowing animals emerging,2,58,19,52
+Flamingo,Sudden movement,6,67,5,75
+Flamingo,Sudden movement,7,72,16,77
+Flamingo,Burrowing animals emerging,10,52,8,82
+Giraffe,Sudden movement,2,7,11,42
+Giraffe,Sudden fleeing,9,49,5,89
+Flamingo,Abnormal vocalization,7,22,11,57
+Giraffe,Repeated agitation,6,39,4,68
+Giraffe,Sudden fleeing,8,57,2,78
+Elephant,Abnormal vocalization,2,67,4,63
+Flamingo,Burrowing animals emerging,6,37,12,46
+Elephant,Sudden fleeing,4,35,5,76
+Elephant,Abnormal vocalization,5,27,13,52
+Flamingo,Sudden fleeing,8,85,8,89
+Giraffe,Unusual silence,9,37,10,77
+Giraffe,Sudden fleeing,4,66,13,81
+Elephant,Sudden movement,7,52,9,66
+Elephant,Repeated agitation,9,89,18,100
+Elephant,Sudden fleeing,10,70,21,100
+Elephant,Sudden fleeing,9,92,20,100
+Crocodile,Sudden movement,2,25,19,52
+Flamingo,Abnormal grouping,7,68,3,76
+Crocodile,Unusual silence,8,100,5,84
+Flamingo,Sudden fleeing,1,27,16,44
+Elephant,Repeated agitation,9,56,22,95
+Elephant,Burrowing animals emerging,4,25,7,44
+Elephant,Unusual silence,1,53,2,43
+Flamingo,Abnormal grouping,3,8,7,42
+Flamingo,Burrowing animals emerging,2,85,3,62
+Flamingo,Unusual silence,4,89,23,74
+Crocodile,Unusual silence,3,69,3,50
+Crocodile,Unusual silence,3,74,17,64
+Giraffe,Sudden fleeing,2,76,2,69
+Flamingo,Unusual silence,7,19,3,50
+Giraffe,Abnormal vocalization,3,40,21,59
+Elephant,Abnormal grouping,3,85,2,71
+Giraffe,Abnormal vocalization,10,44,1,71
+Giraffe,Sudden fleeing,10,65,5,100
+Giraffe,Repeated agitation,4,31,7,61
+Elephant,Abnormal grouping,5,67,5,59
+Flamingo,Abnormal vocalization,2,96,22,67
+Flamingo,Sudden fleeing,6,63,3,76
+Giraffe,Unusual silence,2,7,7,46
+Giraffe,Sudden fleeing,8,53,1,83
+Giraffe,Abnormal vocalization,3,95,3,69
+Elephant,Burrowing animals emerging,1,39,8,41
+Giraffe,Abnormal vocalization,7,56,4,69
+Giraffe,Unusual silence,9,20,3,54
+Elephant,Abnormal vocalization,9,64,31,92
+Giraffe,Abnormal vocalization,3,56,8,67
+Giraffe,Sudden fleeing,2,61,5,68
+Flamingo,Sudden movement,3,87,2,70
+Giraffe,Burrowing animals emerging,5,88,13,75
+Crocodile,Repeated agitation,5,38,2,57
+Flamingo,Abnormal vocalization,3,30,12,48
+Flamingo,Abnormal vocalization,2,56,38,65
+Flamingo,Abnormal vocalization,8,60,1,75
+Flamingo,Sudden fleeing,9,30,8,76
+Flamingo,Sudden fleeing,2,99,2,76
+Crocodile,Abnormal vocalization,2,21,12,44
+Flamingo,Abnormal grouping,1,72,7,40
+Elephant,Abnormal vocalization,5,77,9,76
+Giraffe,Repeated agitation,4,36,2,54
+Elephant,Burrowing animals emerging,6,27,18,61
+Elephant,Abnormal vocalization,3,67,20,71
+Crocodile,Sudden fleeing,4,9,6,47
+Elephant,Repeated agitation,4,93,7,80
+Flamingo,Sudden movement,9,11,18,75
+Elephant,Abnormal vocalization,9,87,12,100
+Elephant,Sudden movement,7,71,9,84
+Flamingo,Repeated agitation,6,61,4,72
+Elephant,Sudden fleeing,7,40,5,78
+Crocodile,Sudden movement,1,93,2,67
+Giraffe,Repeated agitation,2,60,3,61
+Elephant,Unusual silence,10,55,2,82
+Giraffe,Burrowing animals emerging,6,39,2,54
+Elephant,Repeated agitation,8,52,9,82
+Giraffe,Unusual silence,7,72,16,86
+Elephant,Abnormal vocalization,10,98,1,89
+Flamingo,Repeated agitation,5,71,9,84
+Flamingo,Repeated agitation,5,73,2,70
+Crocodile,Burrowing animals emerging,10,58,25,77
+Crocodile,Unusual silence,10,8,3,51
+Elephant,Sudden fleeing,5,62,19,79
+Giraffe,Sudden movement,2,91,11,79
+Flamingo,Unusual silence,2,40,4,40
+Elephant,Abnormal vocalization,1,21,7,39
+Giraffe,Repeated agitation,7,99,5,97
+Giraffe,Repeated agitation,1,100,13,75
+Crocodile,Abnormal vocalization,10,85,6,92
+Giraffe,Sudden movement,9,13,7,72
+Elephant,Sudden movement,4,26,3,48
+Elephant,Unusual silence,4,64,6,67
+Crocodile,Repeated agitation,8,58,5,74
+Elephant,Abnormal vocalization,2,6,3,32
+Crocodile,Abnormal vocalization,9,93,12,100
+Flamingo,Burrowing animals emerging,2,34,15,45
+Giraffe,Abnormal vocalization,9,16,13,73
+Elephant,Burrowing animals emerging,8,78,2,81
+Flamingo,Sudden fleeing,6,96,4,92
+Crocodile,Unusual silence,2,38,20,49
+Giraffe,Burrowing animals emerging,1,41,25,30
+Elephant,Abnormal grouping,8,67,22,92
+Giraffe,Repeated agitation,6,97,41,99
+Crocodile,Abnormal grouping,9,70,3,76
+Elephant,Sudden movement,2,58,7,66
+Elephant,Sudden movement,2,86,6,73
+Elephant,Abnormal grouping,7,43,6,64
+Giraffe,Repeated agitation,2,93,10,78
+Crocodile,Unusual silence,3,88,8,57
+Elephant,Burrowing animals emerging,10,64,32,86
+Flamingo,Sudden fleeing,10,13,2,85
+Crocodile,Abnormal vocalization,2,24,4,47
+Elephant,Sudden fleeing,2,91,10,85
+Giraffe,Sudden fleeing,6,11,3,81
+Crocodile,Sudden fleeing,7,25,11,70
+Giraffe,Repeated agitation,4,44,10,65
+Flamingo,Sudden movement,1,76,13,61
+Giraffe,Abnormal grouping,2,61,3,54
+Giraffe,Sudden movement,1,23,15,49
+Elephant,Abnormal grouping,2,74,3,59
+Crocodile,Unusual silence,8,38,7,63
+Elephant,Abnormal vocalization,3,92,23,78
+Giraffe,Sudden fleeing,2,48,2,54
+Giraffe,Burrowing animals emerging,5,93,2,66
+Flamingo,Unusual silence,2,11,10,37
+Elephant,Burrowing animals emerging,6,41,2,58
+Elephant,Unusual silence,6,29,5,59
+Flamingo,Sudden movement,3,96,22,79
+Crocodile,Abnormal grouping,4,50,8,46
+Giraffe,Repeated agitation,6,88,8,86
+Elephant,Abnormal vocalization,2,32,3,57
+Giraffe,Sudden movement,1,96,9,69
+Crocodile,Unusual silence,1,42,5,42
+Giraffe,Unusual silence,5,74,6,72
+Crocodile,Abnormal vocalization,2,88,2,71
+Giraffe,Sudden fleeing,2,37,2,49
+Flamingo,Sudden fleeing,6,74,2,87
+Flamingo,Sudden movement,2,18,28,42
+Crocodile,Repeated agitation,8,68,8,100
+Elephant,Burrowing animals emerging,4,57,9,71
+Elephant,Repeated agitation,8,21,6,76
+Crocodile,Sudden movement,6,88,28,89
+Elephant,Repeated agitation,6,69,4,74
+Flamingo,Abnormal grouping,9,46,5,75
+Elephant,Unusual silence,3,33,24,44
+Flamingo,Sudden fleeing,8,13,23,65
+Flamingo,Burrowing animals emerging,5,91,10,82
+Crocodile,Unusual silence,5,32,22,53
+Flamingo,Unusual silence,1,65,18,50
+Giraffe,Abnormal vocalization,10,58,10,80
+Elephant,Abnormal grouping,6,88,5,87
+Crocodile,Unusual silence,10,22,4,61
+Flamingo,Sudden fleeing,4,5,1,57
+Giraffe,Sudden fleeing,4,83,2,82
+Flamingo,Unusual silence,8,87,2,82
+Giraffe,Sudden fleeing,3,7,9,46
+Elephant,Abnormal vocalization,1,10,24,50
+Giraffe,Abnormal grouping,10,88,2,91
+Flamingo,Abnormal grouping,9,27,25,69
+Elephant,Repeated agitation,4,95,2,76
+Crocodile,Unusual silence,6,64,2,67
+Crocodile,Unusual silence,7,65,1,67
+Elephant,Abnormal grouping,2,6,10,36
+Flamingo,Unusual silence,5,51,10,64
+Flamingo,Unusual silence,9,12,13,58
+Giraffe,Abnormal vocalization,7,78,30,96
+Flamingo,Abnormal vocalization,8,37,4,65
+Giraffe,Abnormal vocalization,4,28,1,56
+Crocodile,Sudden fleeing,10,38,2,83
+Elephant,Sudden movement,9,48,3,90
+Giraffe,Unusual silence,5,59,28,73
+Elephant,Burrowing animals emerging,9,83,1,83
+Giraffe,Abnormal vocalization,1,100,9,61
+Giraffe,Repeated agitation,5,61,2,81
+Giraffe,Burrowing animals emerging,1,75,4,51
+Giraffe,Repeated agitation,10,71,7,100
+Flamingo,Unusual silence,2,53,3,51
+Giraffe,Sudden fleeing,3,33,7,66
+Crocodile,Sudden movement,10,46,3,80
+Giraffe,Abnormal vocalization,10,66,5,88
+Elephant,Repeated agitation,1,43,21,56
+Flamingo,Sudden movement,7,34,14,60
+Elephant,Sudden fleeing,2,37,9,59
+Crocodile,Unusual silence,9,92,4,88
+Elephant,Sudden fleeing,2,50,13,64
+Flamingo,Unusual silence,9,74,5,73
+Elephant,Abnormal grouping,8,86,18,93
+Crocodile,Burrowing animals emerging,5,13,3,37
+Flamingo,Sudden fleeing,8,64,4,99
+Giraffe,Sudden movement,6,69,6,75
+Flamingo,Repeated agitation,2,62,6,67
+Flamingo,Sudden movement,3,37,15,54
+Crocodile,Abnormal vocalization,4,67,14,68
+Flamingo,Sudden movement,2,98,2,74
+Elephant,Sudden movement,2,38,5,54
+Elephant,Sudden fleeing,1,96,19,87
+Elephant,Burrowing animals emerging,1,26,23,48
+Flamingo,Abnormal grouping,1,21,3,22
+Flamingo,Sudden movement,5,34,6,59
+Elephant,Abnormal grouping,6,58,2,81
+Giraffe,Sudden fleeing,4,94,22,95
+Elephant,Burrowing animals emerging,10,66,16,83
+Flamingo,Abnormal grouping,5,98,4,66
+Flamingo,Repeated agitation,5,48,5,64
+Crocodile,Abnormal grouping,2,61,2,44
+Flamingo,Unusual silence,7,30,7,66
+Crocodile,Sudden fleeing,1,30,7,53
+Crocodile,Abnormal vocalization,3,65,10,57
+Elephant,Unusual silence,7,39,4,62
+Flamingo,Repeated agitation,9,45,5,72
+Crocodile,Abnormal vocalization,5,81,2,78
+Crocodile,Sudden fleeing,2,38,8,57
+Crocodile,Sudden fleeing,6,23,16,64
+Giraffe,Abnormal grouping,2,59,35,74
+Giraffe,Repeated agitation,6,41,4,62
+Elephant,Sudden movement,4,40,14,62
+Elephant,Sudden movement,9,98,8,100
+Elephant,Sudden movement,5,55,34,76
+Crocodile,Burrowing animals emerging,2,57,22,49
+Flamingo,Abnormal grouping,3,49,1,51
+Elephant,Burrowing animals emerging,5,62,6,60
+Elephant,Abnormal grouping,2,61,22,59
+Flamingo,Abnormal grouping,10,60,12,93
+Elephant,Sudden fleeing,6,43,15,74
+Flamingo,Sudden movement,1,61,10,51
+Crocodile,Abnormal vocalization,4,25,3,44
+Giraffe,Abnormal vocalization,5,94,16,83
+Giraffe,Sudden fleeing,4,14,17,63
+Giraffe,Unusual silence,2,46,12,54
+Elephant,Sudden movement,6,82,7,88
+Flamingo,Abnormal grouping,4,30,21,60
+Flamingo,Burrowing animals emerging,6,53,11,71
+Giraffe,Burrowing animals emerging,10,61,19,87
+Crocodile,Sudden movement,10,6,11,69
+Flamingo,Abnormal grouping,10,17,20,69
+Flamingo,Abnormal grouping,6,40,2,66
+Crocodile,Unusual silence,4,10,5,36
+Crocodile,Sudden fleeing,4,100,19,88
+Giraffe,Abnormal vocalization,6,19,17,69
+Crocodile,Unusual silence,3,37,11,52
+Crocodile,Abnormal grouping,5,18,9,46
+Flamingo,Abnormal vocalization,8,40,9,78
+Elephant,Sudden movement,5,34,14,64
+Flamingo,Unusual silence,4,57,7,63
+Giraffe,Abnormal grouping,2,43,6,47
+Flamingo,Sudden fleeing,8,88,6,100
+Giraffe,Repeated agitation,9,71,4,92
+Crocodile,Burrowing animals emerging,10,68,14,89
+Elephant,Repeated agitation,6,83,18,94
+Giraffe,Sudden movement,6,26,21,61
+Elephant,Abnormal vocalization,3,20,3,45
+Crocodile,Unusual silence,7,10,3,53
+Elephant,Sudden movement,8,43,2,79
+Crocodile,Abnormal grouping,6,91,2,61
+Flamingo,Sudden movement,6,24,4,60
+Giraffe,Abnormal grouping,10,24,41,81
+Elephant,Sudden movement,9,52,4,85
+Giraffe,Sudden fleeing,8,41,7,76
+Giraffe,Repeated agitation,9,69,14,84
+Flamingo,Sudden movement,5,25,11,63
+Giraffe,Sudden movement,5,97,12,90
+Flamingo,Sudden movement,7,74,16,89
+Crocodile,Abnormal grouping,10,11,9,62
+Elephant,Sudden movement,7,46,1,72
+Flamingo,Abnormal grouping,10,81,11,100
+Crocodile,Sudden fleeing,2,98,1,79
+Giraffe,Unusual silence,2,13,27,52
+Flamingo,Abnormal grouping,8,25,4,56
+Elephant,Burrowing animals emerging,2,5,1,26
+Elephant,Unusual silence,9,80,21,96
+Crocodile,Abnormal vocalization,3,41,18,63
+Giraffe,Abnormal vocalization,3,80,13,85
+Crocodile,Abnormal grouping,10,27,4,71
+Crocodile,Burrowing animals emerging,6,91,1,51
+Flamingo,Sudden fleeing,3,37,11,68
+Elephant,Sudden fleeing,10,16,6,78
+Crocodile,Repeated agitation,2,68,5,62
+Flamingo,Abnormal grouping,6,73,17,84
+Giraffe,Sudden movement,9,39,3,81
+Elephant,Abnormal vocalization,8,55,14,85
+Giraffe,Sudden movement,7,22,11,72
+Crocodile,Abnormal vocalization,9,53,23,87
+Giraffe,Sudden movement,2,19,1,40
+Flamingo,Unusual silence,5,17,5,40
+Flamingo,Sudden movement,10,50,7,91
+Crocodile,Sudden fleeing,9,33,5,80
+Flamingo,Abnormal grouping,10,45,14,80
+Crocodile,Repeated agitation,4,81,6,77
+Elephant,Unusual silence,3,51,36,65
+Crocodile,Repeated agitation,4,12,6,41
+Giraffe,Sudden fleeing,6,94,6,95
+Crocodile,Abnormal vocalization,5,78,22,73
+Crocodile,Abnormal vocalization,9,40,3,69
+Flamingo,Sudden fleeing,6,58,25,78
+Giraffe,Unusual silence,2,22,22,45
+Flamingo,Abnormal grouping,4,55,1,57
+Crocodile,Unusual silence,6,46,32,75
+Giraffe,Abnormal grouping,8,58,50,84
+Crocodile,Abnormal vocalization,6,16,10,48
+Giraffe,Sudden movement,9,80,18,100
+Giraffe,Unusual silence,8,81,7,85
+Giraffe,Abnormal vocalization,3,51,7,59
+Elephant,Sudden movement,4,6,8,60
+Elephant,Unusual silence,2,16,8,37
+Giraffe,Unusual silence,10,39,19,71
+Giraffe,Sudden fleeing,7,21,9,67
+Crocodile,Repeated agitation,10,89,1,100
+Flamingo,Abnormal vocalization,6,55,2,67
+Giraffe,Abnormal vocalization,5,78,7,74
+Flamingo,Repeated agitation,10,80,1,100
+Flamingo,Repeated agitation,4,87,8,80
+Crocodile,Repeated agitation,3,42,22,61
+Flamingo,Unusual silence,2,23,7,37
+Giraffe,Sudden movement,3,16,4,45
+Flamingo,Abnormal vocalization,10,59,5,95
+Flamingo,Burrowing animals emerging,4,23,10,52
+Flamingo,Abnormal grouping,7,69,13,75
+Flamingo,Abnormal vocalization,5,45,14,60
+Giraffe,Unusual silence,5,7,15,35
+Elephant,Repeated agitation,5,19,2,65
+Crocodile,Unusual silence,1,18,4,31
+Elephant,Repeated agitation,4,92,14,97
+Crocodile,Abnormal vocalization,4,82,10,76
+Flamingo,Sudden fleeing,1,73,3,58
+Elephant,Repeated agitation,10,39,7,84
+Giraffe,Repeated agitation,2,85,12,86
+Elephant,Abnormal vocalization,9,8,14,55
+Giraffe,Abnormal grouping,10,17,6,70
+Crocodile,Sudden movement,4,69,18,73
+Crocodile,Sudden movement,8,97,16,100
+Crocodile,Abnormal grouping,5,19,4,42
+Giraffe,Sudden fleeing,9,44,2,79
+Flamingo,Burrowing animals emerging,9,52,9,69
+Flamingo,Unusual silence,3,15,20,47
+Elephant,Sudden movement,8,20,16,82
+Crocodile,Abnormal vocalization,7,9,3,53
+Crocodile,Abnormal vocalization,7,57,12,80
+Flamingo,Sudden movement,5,75,17,84
+Crocodile,Abnormal grouping,1,32,13,43
+Giraffe,Unusual silence,5,79,2,66
+Giraffe,Abnormal vocalization,4,55,2,59
+Giraffe,Burrowing animals emerging,4,92,6,80
+Elephant,Sudden movement,2,99,19,80
+Elephant,Abnormal vocalization,3,69,2,68
+Flamingo,Sudden movement,7,92,5,92
+Flamingo,Sudden movement,10,85,12,100
+Flamingo,Abnormal vocalization,10,34,2,66
+Giraffe,Abnormal grouping,3,81,12,71
+Elephant,Sudden fleeing,9,98,14,100
+Elephant,Sudden movement,10,32,36,82
+Giraffe,Abnormal vocalization,5,54,10,69
+Crocodile,Abnormal vocalization,1,9,15,43
+Flamingo,Abnormal grouping,5,39,16,54
+Flamingo,Unusual silence,7,23,4,47
+Giraffe,Abnormal grouping,3,82,7,65
+Giraffe,Sudden fleeing,8,69,2,88
+Crocodile,Sudden movement,2,47,12,52
+Flamingo,Abnormal grouping,6,36,4,65
+Flamingo,Unusual silence,8,20,20,58
+Elephant,Abnormal vocalization,1,92,2,57
+Flamingo,Sudden movement,8,82,1,90
+Crocodile,Repeated agitation,8,77,2,83
+Giraffe,Abnormal grouping,6,53,18,73
+Giraffe,Abnormal vocalization,9,29,9,71
+Giraffe,Abnormal grouping,8,75,3,85
+Giraffe,Abnormal vocalization,2,80,14,71
+Giraffe,Abnormal vocalization,4,10,2,37
+Crocodile,Abnormal grouping,3,52,11,43
+Giraffe,Sudden movement,8,48,12,78
+Crocodile,Abnormal grouping,7,28,1,62
+Flamingo,Burrowing animals emerging,5,85,17,75
+Elephant,Abnormal grouping,10,20,3,70
+Elephant,Burrowing animals emerging,6,91,14,78
+Flamingo,Abnormal vocalization,6,93,6,69
+Giraffe,Sudden movement,8,63,13,85
+Flamingo,Sudden fleeing,10,57,3,88
+Giraffe,Sudden fleeing,2,80,9,81
+Elephant,Abnormal vocalization,6,24,4,67
+Elephant,Abnormal grouping,7,10,13,62
+Crocodile,Abnormal grouping,6,54,8,65
+Flamingo,Abnormal vocalization,8,54,8,80
+Crocodile,Unusual silence,9,91,2,76
+Giraffe,Abnormal grouping,6,68,31,79
+Giraffe,Unusual silence,7,70,29,91
+Crocodile,Sudden movement,3,53,13,60
+Flamingo,Abnormal grouping,1,59,2,42
+Flamingo,Burrowing animals emerging,8,59,32,67
+Elephant,Repeated agitation,3,83,5,90
+Giraffe,Burrowing animals emerging,1,55,2,46
+Giraffe,Unusual silence,6,17,5,60
+Flamingo,Unusual silence,1,70,3,42
+Giraffe,Unusual silence,8,92,8,82
+Giraffe,Abnormal grouping,4,48,23,56
+Elephant,Abnormal grouping,1,70,22,55
+Flamingo,Abnormal grouping,5,35,12,50
+Giraffe,Sudden fleeing,8,49,5,82
+Elephant,Sudden movement,4,52,2,67
+Giraffe,Burrowing animals emerging,9,72,6,94
+Elephant,Sudden movement,7,78,6,87
+Elephant,Abnormal grouping,1,8,6,37
+Elephant,Sudden movement,2,27,8,54
+Crocodile,Sudden movement,2,98,2,63
+Crocodile,Abnormal grouping,8,59,3,67
+Flamingo,Unusual silence,6,96,15,84
+Giraffe,Repeated agitation,10,90,2,100
+Elephant,Sudden fleeing,2,30,5,52
+Flamingo,Abnormal grouping,9,9,3,53
+Crocodile,Abnormal grouping,10,17,8,68
+Flamingo,Repeated agitation,8,77,37,100
+Crocodile,Sudden movement,1,58,7,57
+Crocodile,Sudden fleeing,3,51,58,66
+Flamingo,Abnormal grouping,2,36,5,43
+Crocodile,Sudden fleeing,3,84,5,88
+Crocodile,Sudden movement,5,30,8,59
+Crocodile,Burrowing animals emerging,7,89,21,84
+Giraffe,Abnormal grouping,8,41,1,68
+Crocodile,Abnormal vocalization,3,95,8,64
+Elephant,Sudden movement,10,16,5,64
+Elephant,Sudden movement,7,85,9,90
+Elephant,Repeated agitation,5,36,20,61
+Flamingo,Abnormal grouping,9,92,9,96
+Flamingo,Sudden fleeing,5,43,11,71
+Giraffe,Abnormal grouping,10,50,8,86
+Giraffe,Sudden movement,7,30,1,63
+Giraffe,Sudden fleeing,5,88,5,82
+Elephant,Repeated agitation,5,90,19,90
+Giraffe,Sudden fleeing,1,68,11,72
+Flamingo,Repeated agitation,10,93,7,100
+Giraffe,Abnormal vocalization,9,7,13,50
+Elephant,Abnormal grouping,9,82,13,100
+Flamingo,Abnormal vocalization,3,14,17,45
+Flamingo,Sudden fleeing,5,23,1,62
+Giraffe,Abnormal vocalization,6,35,1,68
+Elephant,Burrowing animals emerging,9,38,2,65
+Giraffe,Unusual silence,8,37,2,64
+Giraffe,Sudden fleeing,7,62,35,94
+Crocodile,Sudden movement,7,21,16,67
+Crocodile,Repeated agitation,9,43,6,85
+Crocodile,Abnormal grouping,5,64,11,70
+Flamingo,Repeated agitation,1,65,7,71
+Giraffe,Abnormal grouping,3,89,2,70
+Crocodile,Burrowing animals emerging,8,21,15,48
+Giraffe,Abnormal vocalization,1,26,3,49
+Giraffe,Sudden movement,5,32,2,54
+Crocodile,Abnormal grouping,2,41,2,46
+Elephant,Sudden fleeing,2,65,12,77
+Giraffe,Abnormal grouping,4,50,24,67
+Elephant,Abnormal vocalization,10,90,6,100
+Giraffe,Abnormal vocalization,9,31,11,71
+Elephant,Abnormal vocalization,9,91,19,100
+Giraffe,Abnormal vocalization,2,64,15,69
+Crocodile,Repeated agitation,8,72,6,83
+Elephant,Abnormal grouping,3,98,18,78
+Crocodile,Burrowing animals emerging,6,81,11,73
+Giraffe,Unusual silence,4,16,14,46
+Elephant,Abnormal vocalization,6,84,5,95
+Giraffe,Unusual silence,6,100,25,85
+Giraffe,Burrowing animals emerging,7,66,4,69
+Flamingo,Abnormal grouping,5,43,23,60
+Flamingo,Unusual silence,2,78,2,55
+Elephant,Sudden movement,4,60,13,76
+Elephant,Abnormal grouping,2,59,13,62
+Giraffe,Sudden fleeing,10,18,17,80
+Crocodile,Abnormal vocalization,2,42,5,41
+Giraffe,Abnormal grouping,1,11,25,21
+Flamingo,Burrowing animals emerging,1,67,8,52
+Elephant,Sudden fleeing,1,86,2,70
+Giraffe,Abnormal grouping,1,35,8,41
+Crocodile,Unusual silence,5,57,24,54
+Giraffe,Repeated agitation,9,76,10,100
+Flamingo,Abnormal vocalization,1,80,4,56
+Crocodile,Unusual silence,6,24,17,43
+Giraffe,Abnormal vocalization,3,63,5,53
+Crocodile,Burrowing animals emerging,6,72,10,68
+Crocodile,Burrowing animals emerging,10,28,3,59
+Flamingo,Sudden movement,5,78,2,86
+Crocodile,Repeated agitation,10,85,4,100
+Giraffe,Unusual silence,5,24,16,58
+Crocodile,Repeated agitation,8,47,12,68
+Flamingo,Abnormal grouping,5,28,2,49
+Giraffe,Unusual silence,3,33,2,56
+Giraffe,Sudden movement,1,86,10,72
+Elephant,Abnormal grouping,5,78,4,69
+Giraffe,Abnormal grouping,7,27,3,65
+Flamingo,Sudden fleeing,2,49,17,62
+Giraffe,Repeated agitation,9,47,1,88
+Elephant,Sudden fleeing,10,62,2,91
+Crocodile,Burrowing animals emerging,10,34,16,65
+Giraffe,Abnormal grouping,10,31,4,72
+Elephant,Unusual silence,6,74,1,81
+Flamingo,Unusual silence,9,74,19,85
+Flamingo,Repeated agitation,5,5,8,47
+Flamingo,Sudden movement,10,41,6,75
+Giraffe,Abnormal grouping,10,47,18,82
+Elephant,Sudden movement,7,64,8,82
+Flamingo,Sudden fleeing,9,65,9,81
+Crocodile,Abnormal grouping,4,87,18,84
+Giraffe,Abnormal grouping,5,94,26,82
+Elephant,Repeated agitation,2,26,34,58
+Giraffe,Repeated agitation,10,11,6,71
+Flamingo,Abnormal vocalization,7,72,11,78
+Flamingo,Repeated agitation,7,47,5,65
+Elephant,Unusual silence,9,27,5,71
+Elephant,Abnormal grouping,9,69,6,92
+Crocodile,Abnormal vocalization,4,76,32,77
+Crocodile,Burrowing animals emerging,6,68,4,62
+Elephant,Burrowing animals emerging,5,82,12,72
+Elephant,Abnormal grouping,7,86,15,85
+Crocodile,Burrowing animals emerging,10,64,2,77
+Crocodile,Abnormal vocalization,7,89,2,88
+Giraffe,Abnormal grouping,5,31,8,56
+Elephant,Abnormal vocalization,1,25,9,43
+Flamingo,Abnormal grouping,10,7,21,67
+Elephant,Burrowing animals emerging,3,56,7,54
+Elephant,Abnormal vocalization,5,97,11,88
+Crocodile,Sudden fleeing,2,35,2,49
+Crocodile,Unusual silence,10,85,3,89
+Giraffe,Repeated agitation,1,34,20,53
+Flamingo,Abnormal grouping,10,19,27,70
+Flamingo,Repeated agitation,3,12,12,43
+Flamingo,Repeated agitation,10,63,18,94
+Giraffe,Burrowing animals emerging,5,24,2,43
+Crocodile,Unusual silence,9,99,5,78
+Giraffe,Burrowing animals emerging,3,37,6,39
+Flamingo,Unusual silence,9,41,18,79
+Flamingo,Repeated agitation,8,45,8,76
+Elephant,Abnormal grouping,5,42,12,72
+Flamingo,Abnormal vocalization,10,12,4,73
+Giraffe,Repeated agitation,6,85,20,84
+Giraffe,Sudden fleeing,7,83,2,99
+Elephant,Sudden fleeing,3,65,21,84
+Crocodile,Burrowing animals emerging,1,8,3,23
+Elephant,Unusual silence,7,22,2,56
+Elephant,Burrowing animals emerging,4,43,24,59
+Crocodile,Burrowing animals emerging,8,39,6,58
+Giraffe,Sudden fleeing,8,81,7,100
+Flamingo,Abnormal grouping,8,45,5,72
+Giraffe,Abnormal vocalization,3,14,2,46
+Giraffe,Burrowing animals emerging,2,82,17,60
+Crocodile,Repeated agitation,7,54,5,69
+Flamingo,Abnormal grouping,6,33,21,68
+Giraffe,Repeated agitation,1,30,5,57
+Crocodile,Unusual silence,9,36,3,56
+Elephant,Abnormal grouping,5,6,17,43
+Flamingo,Unusual silence,3,88,6,72
+Flamingo,Abnormal grouping,3,78,17,67
+Giraffe,Repeated agitation,1,30,4,49
+Crocodile,Unusual silence,4,28,7,55
+Flamingo,Abnormal grouping,10,94,8,99
+Crocodile,Burrowing animals emerging,2,69,10,48
+Flamingo,Sudden movement,10,60,15,94
+Giraffe,Unusual silence,9,45,25,69
+Flamingo,Unusual silence,4,41,2,49
+Flamingo,Burrowing animals emerging,1,27,19,42
+Giraffe,Abnormal grouping,8,36,18,68
+Crocodile,Abnormal grouping,7,88,3,80
+Giraffe,Sudden fleeing,3,19,2,65
+Giraffe,Unusual silence,7,58,10,71
+Crocodile,Abnormal vocalization,10,27,4,65
+Flamingo,Sudden fleeing,6,77,3,82
+Flamingo,Repeated agitation,9,92,3,100
+Giraffe,Sudden movement,10,78,9,100
+Flamingo,Sudden movement,4,47,3,62
+Giraffe,Repeated agitation,1,15,10,42
+Elephant,Unusual silence,1,64,1,49
+Giraffe,Abnormal grouping,8,27,10,60
+Crocodile,Sudden fleeing,9,91,13,100
+Elephant,Sudden fleeing,1,73,5,69
+Giraffe,Burrowing animals emerging,10,93,17,92
+Flamingo,Unusual silence,10,40,3,74
+Elephant,Burrowing animals emerging,1,66,16,39
+Giraffe,Abnormal grouping,9,61,14,70
+Elephant,Sudden movement,1,30,37,56
+Elephant,Burrowing animals emerging,5,50,23,67
+Crocodile,Sudden movement,2,15,3,49
+Giraffe,Unusual silence,7,76,4,78
+Elephant,Sudden movement,3,86,6,78
+Elephant,Abnormal grouping,8,37,3,61
+Flamingo,Unusual silence,10,94,17,100
+Elephant,Burrowing animals emerging,7,24,2,56
+Crocodile,Abnormal grouping,9,41,30,75
+Crocodile,Unusual silence,7,62,1,64
+Elephant,Burrowing animals emerging,10,97,6,100
+Flamingo,Burrowing animals emerging,7,88,6,70
+Crocodile,Abnormal vocalization,3,20,33,51
+Giraffe,Sudden fleeing,3,24,10,67
+Flamingo,Abnormal vocalization,3,30,41,56
+Crocodile,Abnormal vocalization,4,77,21,75
+Giraffe,Abnormal vocalization,2,42,6,56
+Flamingo,Abnormal grouping,10,31,9,73
+Flamingo,Sudden fleeing,5,87,7,81
+Flamingo,Abnormal grouping,7,67,13,75
+Elephant,Repeated agitation,6,75,6,87
+Flamingo,Repeated agitation,7,38,21,72
+Flamingo,Sudden fleeing,1,10,18,50
+Giraffe,Sudden fleeing,2,37,4,55
+Giraffe,Sudden fleeing,8,12,12,74
+Flamingo,Repeated agitation,1,30,22,49
+Crocodile,Sudden fleeing,5,53,15,82
+Elephant,Sudden fleeing,10,14,11,88
+Elephant,Abnormal vocalization,8,9,11,57
+Crocodile,Burrowing animals emerging,2,89,1,50
+Flamingo,Unusual silence,9,59,4,71
+Flamingo,Abnormal vocalization,6,63,16,73
+Crocodile,Abnormal grouping,5,84,14,74
+Elephant,Sudden fleeing,10,5,3,78
+Elephant,Abnormal grouping,10,81,6,96
+Giraffe,Repeated agitation,9,56,2,85
+Crocodile,Sudden fleeing,8,55,9,78
+Flamingo,Repeated agitation,10,28,3,66
+Giraffe,Repeated agitation,3,31,29,55
+Crocodile,Unusual silence,2,42,7,54
+Elephant,Repeated agitation,9,49,3,89
+Elephant,Abnormal vocalization,2,82,6,73
+Elephant,Sudden movement,7,13,2,53
+Crocodile,Sudden fleeing,7,48,14,74
+Flamingo,Sudden fleeing,3,76,1,76
+Crocodile,Burrowing animals emerging,8,75,6,81
+Crocodile,Abnormal grouping,8,41,29,70
+Elephant,Unusual silence,5,7,2,32
+Crocodile,Abnormal grouping,10,21,13,53
+Flamingo,Abnormal grouping,3,36,7,52
+Crocodile,Repeated agitation,9,25,3,65
+Giraffe,Repeated agitation,10,79,9,100
+Crocodile,Repeated agitation,9,27,8,73
+Crocodile,Abnormal grouping,6,53,18,75
+Giraffe,Abnormal grouping,8,100,1,85
+Elephant,Abnormal grouping,8,54,5,70
+Elephant,Sudden fleeing,2,49,12,59
+Crocodile,Sudden movement,5,68,6,66
+Elephant,Sudden fleeing,6,59,2,72
+Elephant,Sudden fleeing,7,62,4,89
+Crocodile,Abnormal grouping,1,77,5,41
+Crocodile,Abnormal grouping,8,7,11,53
+Flamingo,Sudden movement,10,73,1,100
+Crocodile,Abnormal vocalization,9,39,3,64
+Giraffe,Unusual silence,2,63,8,53
+Crocodile,Sudden fleeing,2,12,16,46
+Elephant,Abnormal vocalization,3,30,15,58
+Crocodile,Sudden fleeing,6,71,3,89
+Giraffe,Sudden fleeing,10,82,12,100
+Flamingo,Repeated agitation,6,96,9,82
+Flamingo,Sudden fleeing,10,91,23,100
+Elephant,Sudden fleeing,7,51,18,84
+Giraffe,Burrowing animals emerging,1,62,12,47
+Giraffe,Sudden movement,2,8,2,30
+Crocodile,Burrowing animals emerging,10,61,10,82
+Giraffe,Sudden fleeing,10,92,3,100
+Elephant,Sudden movement,7,48,13,78
+Giraffe,Repeated agitation,8,50,23,76
+Elephant,Sudden fleeing,10,76,28,100
+Flamingo,Burrowing animals emerging,3,54,8,52
+Crocodile,Repeated agitation,5,98,17,92
+Elephant,Abnormal vocalization,8,53,10,66
+Giraffe,Sudden fleeing,6,93,3,100
+Flamingo,Sudden fleeing,8,51,2,93
+Flamingo,Unusual silence,6,30,3,56
+Flamingo,Unusual silence,4,24,3,51
+Flamingo,Abnormal grouping,10,59,7,78
+Giraffe,Abnormal vocalization,8,53,6,68
+Elephant,Burrowing animals emerging,5,70,9,79
+Elephant,Unusual silence,2,12,3,32
+Flamingo,Abnormal vocalization,6,61,16,69
+Flamingo,Sudden movement,8,78,10,100
+Crocodile,Abnormal vocalization,3,77,3,64
+Giraffe,Repeated agitation,6,8,17,55
+Giraffe,Sudden fleeing,10,63,2,96
+Flamingo,Abnormal vocalization,8,38,19,64
+Giraffe,Abnormal vocalization,4,17,20,55
+Flamingo,Unusual silence,4,21,11,51
+Flamingo,Unusual silence,1,44,1,36
+Elephant,Burrowing animals emerging,3,52,11,59
+Elephant,Sudden fleeing,10,12,20,73
+Elephant,Repeated agitation,9,96,10,100
+Elephant,Unusual silence,3,46,5,45
+Flamingo,Burrowing animals emerging,6,34,7,61
+Crocodile,Burrowing animals emerging,4,15,2,33
+Crocodile,Burrowing animals emerging,1,30,8,39
+Giraffe,Burrowing animals emerging,6,89,5,89
+Elephant,Repeated agitation,7,56,16,84
+Flamingo,Burrowing animals emerging,8,98,6,87
+Elephant,Abnormal grouping,5,88,2,81
+Flamingo,Sudden movement,10,55,3,80
+Flamingo,Sudden fleeing,1,37,9,58
+Elephant,Abnormal grouping,4,53,7,59
+Giraffe,Sudden fleeing,7,18,2,61
+Flamingo,Abnormal vocalization,5,76,4,68
+Crocodile,Burrowing animals emerging,3,70,2,46
+Elephant,Abnormal grouping,9,20,10,58
+Elephant,Burrowing animals emerging,7,63,27,80
+Elephant,Sudden movement,3,10,10,51
+Crocodile,Burrowing animals emerging,2,97,3,64
+Crocodile,Abnormal grouping,1,13,15,39
+Flamingo,Burrowing animals emerging,1,67,8,51
+Flamingo,Repeated agitation,8,65,2,87
+Crocodile,Sudden fleeing,10,40,9,88
+Elephant,Unusual silence,3,24,14,35
+Elephant,Unusual silence,7,32,6,61
+Crocodile,Sudden movement,6,89,3,82
+Flamingo,Abnormal grouping,4,87,15,66
+Giraffe,Abnormal grouping,3,93,2,67
+Giraffe,Abnormal vocalization,9,34,18,73
+Elephant,Sudden fleeing,1,93,41,77
+Elephant,Sudden fleeing,10,69,20,100
+Flamingo,Burrowing animals emerging,5,73,16,63
+Crocodile,Repeated agitation,8,34,52,74
+Crocodile,Repeated agitation,9,81,1,97
+Elephant,Abnormal vocalization,1,29,7,32
+Flamingo,Sudden fleeing,8,46,10,89
+Elephant,Unusual silence,6,66,9,75
+Giraffe,Abnormal grouping,4,82,8,85
+Flamingo,Repeated agitation,2,25,9,57
+Giraffe,Burrowing animals emerging,4,97,8,78
+Giraffe,Unusual silence,1,44,6,50
+Flamingo,Abnormal vocalization,6,95,13,94
+Giraffe,Sudden movement,8,88,5,86
+Giraffe,Burrowing animals emerging,7,80,1,68
+Giraffe,Sudden movement,9,86,10,99
+Elephant,Sudden movement,1,48,2,59
+Giraffe,Burrowing animals emerging,3,97,5,66
+Crocodile,Sudden fleeing,3,87,16,77
+Elephant,Abnormal grouping,2,48,7,55
+Giraffe,Unusual silence,10,12,7,58
+Elephant,Unusual silence,2,10,5,35
+Crocodile,Unusual silence,3,19,1,43
+Elephant,Burrowing animals emerging,2,59,8,61
+Crocodile,Sudden fleeing,7,18,23,67
+Elephant,Sudden fleeing,2,47,13,67
+Giraffe,Repeated agitation,6,60,13,79
+Flamingo,Abnormal grouping,10,48,15,85
+Flamingo,Sudden fleeing,10,70,6,100
+Flamingo,Abnormal vocalization,3,55,3,53
+Crocodile,Repeated agitation,2,18,8,47
+Crocodile,Repeated agitation,1,31,4,40
+Flamingo,Abnormal vocalization,1,80,2,43
+Giraffe,Unusual silence,3,50,5,52
+Elephant,Burrowing animals emerging,1,35,2,30
+Giraffe,Burrowing animals emerging,8,88,14,100
+Elephant,Abnormal grouping,10,67,3,94
+Crocodile,Abnormal vocalization,5,99,18,78
+Crocodile,Unusual silence,8,19,5,46
+Flamingo,Abnormal vocalization,6,95,11,86
+Elephant,Unusual silence,7,69,28,76
+Giraffe,Unusual silence,10,13,18,67
+Giraffe,Repeated agitation,6,10,16,54
+Elephant,Burrowing animals emerging,5,99,22,78
+Crocodile,Sudden movement,8,47,4,72
+Crocodile,Abnormal vocalization,8,81,2,81
+Crocodile,Unusual silence,9,93,41,93
+Flamingo,Repeated agitation,3,62,13,65
+Flamingo,Unusual silence,5,78,13,74
+Elephant,Abnormal grouping,10,22,12,76
+Crocodile,Repeated agitation,2,20,2,40
+Flamingo,Abnormal vocalization,2,37,16,49
+Crocodile,Abnormal vocalization,2,90,7,66
+Crocodile,Repeated agitation,6,12,9,56
+Crocodile,Sudden fleeing,6,37,6,66
+Giraffe,Repeated agitation,7,6,20,67
+Giraffe,Abnormal vocalization,3,83,13,63
+Crocodile,Abnormal vocalization,8,35,3,55
+Flamingo,Abnormal grouping,10,99,10,100
+Flamingo,Abnormal vocalization,8,79,10,85
+Crocodile,Sudden fleeing,10,50,2,84
+Crocodile,Abnormal vocalization,2,45,54,62
+Crocodile,Abnormal grouping,10,23,27,61
+Giraffe,Abnormal vocalization,7,21,5,69
+Crocodile,Repeated agitation,6,48,5,66
+Crocodile,Sudden movement,7,51,6,73
+Flamingo,Unusual silence,1,57,7,34
+Flamingo,Repeated agitation,8,58,5,83
+Giraffe,Abnormal vocalization,8,88,11,96
+Elephant,Burrowing animals emerging,2,8,9,36
+Flamingo,Unusual silence,2,24,4,35
+Elephant,Sudden movement,7,77,6,90
+Flamingo,Burrowing animals emerging,8,80,1,83
+Flamingo,Abnormal grouping,8,64,1,73
+Flamingo,Abnormal grouping,6,87,13,83
+Giraffe,Unusual silence,8,29,3,64
+Elephant,Abnormal grouping,4,11,8,48
+Flamingo,Unusual silence,9,84,13,96
+Elephant,Burrowing animals emerging,8,72,7,90
+Giraffe,Repeated agitation,8,18,11,66
+Giraffe,Abnormal vocalization,2,9,13,42
+Giraffe,Burrowing animals emerging,4,48,7,59
+Flamingo,Abnormal vocalization,3,35,16,54
+Elephant,Burrowing animals emerging,1,28,9,39
+Elephant,Sudden movement,5,13,10,51
+Giraffe,Abnormal grouping,1,46,2,49
+Crocodile,Abnormal grouping,2,71,26,54
+Flamingo,Abnormal grouping,4,21,6,46
+Elephant,Unusual silence,1,10,33,36
+Elephant,Sudden fleeing,6,57,3,86
+Giraffe,Burrowing animals emerging,2,26,9,31
+Giraffe,Abnormal grouping,1,19,6,45
+Giraffe,Abnormal grouping,5,13,3,42
+Flamingo,Unusual silence,6,82,16,85
+Crocodile,Unusual silence,1,42,4,43
+Crocodile,Sudden fleeing,2,76,5,71
+Giraffe,Sudden fleeing,2,70,24,84
+Giraffe,Abnormal grouping,7,100,46,94
+Flamingo,Sudden movement,9,31,7,70
+Elephant,Unusual silence,7,52,3,72
+Elephant,Sudden movement,10,24,16,83
+Giraffe,Abnormal grouping,6,27,11,56
+Giraffe,Sudden fleeing,8,89,9,100
+Giraffe,Sudden movement,6,33,1,57
+Elephant,Unusual silence,3,100,9,79
+Elephant,Sudden fleeing,7,52,3,79
+Crocodile,Abnormal vocalization,8,64,6,80
+Crocodile,Sudden movement,1,86,28,65
+Giraffe,Sudden movement,4,13,13,61
+Elephant,Repeated agitation,9,67,10,90
+Crocodile,Burrowing animals emerging,1,34,2,31
+Giraffe,Abnormal grouping,10,55,10,87
+Flamingo,Sudden fleeing,4,64,4,82
+Elephant,Abnormal grouping,5,62,7,62
+Flamingo,Abnormal vocalization,5,25,19,52
+Giraffe,Sudden movement,3,60,5,69
+Crocodile,Abnormal vocalization,3,12,4,39
+Elephant,Repeated agitation,7,62,4,76
+Elephant,Repeated agitation,5,95,13,100
+Crocodile,Repeated agitation,9,69,20,82
+Crocodile,Sudden movement,5,58,16,69
+Giraffe,Burrowing animals emerging,6,30,2,53
+Flamingo,Sudden fleeing,6,38,15,61
+Elephant,Sudden movement,9,43,10,78
+Elephant,Unusual silence,2,24,10,37
+Flamingo,Sudden movement,2,46,6,42
+Flamingo,Unusual silence,10,97,3,95
+Giraffe,Abnormal grouping,3,28,1,44
+Crocodile,Sudden fleeing,4,70,4,70
+Crocodile,Burrowing animals emerging,9,38,10,67
+Crocodile,Abnormal vocalization,5,62,5,64
+Flamingo,Unusual silence,1,52,10,43
+Elephant,Sudden fleeing,9,30,7,80
+Crocodile,Repeated agitation,9,73,4,87
+Flamingo,Repeated agitation,5,32,9,70
+Flamingo,Unusual silence,5,38,4,58
+Elephant,Abnormal vocalization,3,71,9,69
+Giraffe,Sudden movement,9,81,7,87
+Crocodile,Abnormal vocalization,4,31,3,47
+Crocodile,Abnormal grouping,5,100,17,80
+Flamingo,Repeated agitation,2,64,9,64
+Flamingo,Sudden movement,9,60,2,88
+Flamingo,Abnormal vocalization,3,26,16,55
+Giraffe,Burrowing animals emerging,7,77,5,76
+Crocodile,Abnormal grouping,10,89,5,99
+Giraffe,Unusual silence,8,12,16,59
+Flamingo,Abnormal vocalization,8,60,7,87
+Crocodile,Abnormal vocalization,1,9,13,27
+Crocodile,Sudden movement,7,9,2,61
+Flamingo,Sudden movement,5,91,24,79
+Flamingo,Burrowing animals emerging,10,10,2,48
+Crocodile,Burrowing animals emerging,3,49,11,44
+Giraffe,Sudden movement,8,16,18,65
+Elephant,Unusual silence,6,10,1,61
+Crocodile,Sudden fleeing,9,33,16,80
+Flamingo,Abnormal grouping,8,70,5,79
+Crocodile,Repeated agitation,3,97,2,64
+Giraffe,Sudden fleeing,10,78,14,100
+Giraffe,Sudden fleeing,10,33,3,84
+Giraffe,Unusual silence,7,32,5,67
+Crocodile,Abnormal grouping,7,65,12,74
+Elephant,Sudden fleeing,10,73,16,100
+Flamingo,Abnormal grouping,10,87,3,96
+Elephant,Abnormal grouping,9,42,6,62
+Flamingo,Unusual silence,7,28,7,60
+Crocodile,Abnormal vocalization,1,20,26,45
+Flamingo,Abnormal vocalization,4,19,2,44
+Crocodile,Burrowing animals emerging,1,77,11,48
+Giraffe,Sudden fleeing,3,56,5,79
+Flamingo,Burrowing animals emerging,4,27,5,40
+Crocodile,Sudden movement,8,57,2,75
+Crocodile,Repeated agitation,6,65,10,81
+Flamingo,Sudden fleeing,5,29,5,68
+Flamingo,Abnormal grouping,2,52,3,39
+Crocodile,Abnormal vocalization,3,92,6,82
+Elephant,Repeated agitation,8,65,2,77
+Giraffe,Repeated agitation,5,58,16,68
+Crocodile,Repeated agitation,9,59,34,90
+Crocodile,Abnormal vocalization,5,10,37,44
+Elephant,Abnormal grouping,1,84,51,69
+Crocodile,Sudden movement,1,46,2,40
+Elephant,Burrowing animals emerging,2,57,6,56
+Crocodile,Sudden fleeing,4,8,4,50
+Crocodile,Unusual silence,3,73,3,66
+Giraffe,Unusual silence,3,46,8,49
+Elephant,Sudden fleeing,10,9,7,71
+Giraffe,Sudden movement,2,61,13,73
+Flamingo,Sudden fleeing,4,25,1,57
+Giraffe,Sudden fleeing,4,10,1,58
+Flamingo,Sudden fleeing,5,42,5,69
+Elephant,Abnormal vocalization,6,26,20,69
+Crocodile,Unusual silence,3,60,16,61
+Elephant,Abnormal grouping,10,61,10,96
+Crocodile,Burrowing animals emerging,7,77,16,76
+Flamingo,Abnormal vocalization,3,99,11,84
+Elephant,Burrowing animals emerging,2,88,17,73
+Crocodile,Abnormal grouping,7,79,2,67
+Crocodile,Abnormal vocalization,1,37,37,35
+Giraffe,Sudden fleeing,8,75,8,100
+Elephant,Sudden movement,1,21,14,47
+Elephant,Sudden fleeing,3,11,9,48
+Giraffe,Repeated agitation,7,35,2,62
+Giraffe,Burrowing animals emerging,10,66,2,73
+Flamingo,Abnormal vocalization,1,21,7,28
+Flamingo,Sudden movement,1,36,6,55
+Elephant,Sudden movement,3,17,6,46
+Elephant,Unusual silence,8,62,11,75
+Flamingo,Repeated agitation,9,89,9,100
+Giraffe,Unusual silence,5,70,7,68
+Crocodile,Sudden fleeing,10,72,6,100
+Giraffe,Unusual silence,5,10,6,44
+Elephant,Repeated agitation,8,40,3,77
+Flamingo,Repeated agitation,6,22,13,48
+Flamingo,Sudden movement,8,78,21,96
+Flamingo,Sudden fleeing,8,37,2,65
+Crocodile,Sudden movement,1,80,16,66
+Flamingo,Burrowing animals emerging,7,60,11,79
+Giraffe,Burrowing animals emerging,8,60,1,66
+Giraffe,Burrowing animals emerging,9,34,2,63
+Flamingo,Abnormal vocalization,7,31,11,75
+Crocodile,Repeated agitation,10,54,15,90
+Crocodile,Repeated agitation,6,21,4,56
+Elephant,Unusual silence,7,79,3,79
+Giraffe,Sudden fleeing,4,20,10,57
+Elephant,Unusual silence,9,57,15,85
+Elephant,Sudden movement,1,85,6,77
+Elephant,Abnormal grouping,3,24,5,41
+Flamingo,Abnormal grouping,1,55,6,42
+Giraffe,Sudden movement,5,35,6,61
+Giraffe,Abnormal vocalization,10,97,12,100
+Crocodile,Burrowing animals emerging,6,88,8,73
+Flamingo,Abnormal grouping,8,23,39,69
+Crocodile,Repeated agitation,5,38,10,57
+Crocodile,Sudden movement,4,54,8,58
+Giraffe,Repeated agitation,3,84,9,74
+Flamingo,Sudden fleeing,1,55,2,56
+Crocodile,Unusual silence,3,43,8,54
+Giraffe,Sudden fleeing,4,73,11,83
+Elephant,Abnormal grouping,7,65,2,83
+Elephant,Burrowing animals emerging,2,12,15,42
+Flamingo,Sudden fleeing,8,41,4,68
+Crocodile,Unusual silence,5,83,13,71
+Flamingo,Repeated agitation,8,43,18,74
+Giraffe,Sudden fleeing,2,58,2,64
+Crocodile,Abnormal grouping,2,45,7,51
+Giraffe,Unusual silence,9,63,40,90
+Crocodile,Sudden fleeing,7,26,47,77
+Crocodile,Abnormal grouping,7,32,15,60
+Giraffe,Sudden fleeing,5,26,5,66
+Crocodile,Burrowing animals emerging,4,93,3,63
+Flamingo,Unusual silence,9,82,8,90
+Flamingo,Abnormal vocalization,4,19,8,42
+Giraffe,Abnormal grouping,7,99,2,84
+Flamingo,Unusual silence,1,63,5,55
+Giraffe,Burrowing animals emerging,1,100,1,64
+Giraffe,Repeated agitation,8,71,27,90
+Crocodile,Abnormal grouping,10,32,9,65
+Flamingo,Sudden movement,10,26,18,70
+Giraffe,Unusual silence,7,73,34,86
+Crocodile,Unusual silence,5,54,2,52
+Elephant,Burrowing animals emerging,4,44,8,54
+Flamingo,Abnormal grouping,3,93,7,78
+Giraffe,Burrowing animals emerging,3,47,25,62
+Giraffe,Sudden movement,10,70,2,92
+Flamingo,Abnormal vocalization,7,53,7,61
+Giraffe,Sudden movement,6,48,6,64
+Crocodile,Abnormal vocalization,6,89,36,80
+Giraffe,Sudden fleeing,9,76,8,100
+Flamingo,Unusual silence,6,98,27,88
+Elephant,Burrowing animals emerging,7,13,8,52
+Crocodile,Abnormal grouping,7,30,5,49
+Flamingo,Unusual silence,4,21,2,49
+Crocodile,Burrowing animals emerging,3,82,4,59
+Giraffe,Abnormal vocalization,2,57,2,61
+Flamingo,Burrowing animals emerging,7,70,6,70
+Giraffe,Burrowing animals emerging,8,16,2,61
+Elephant,Burrowing animals emerging,10,57,11,85
+Elephant,Repeated agitation,8,71,3,100
+Flamingo,Sudden movement,2,68,2,51
+Crocodile,Unusual silence,1,13,24,29
+Giraffe,Sudden fleeing,10,50,14,96
+Flamingo,Repeated agitation,9,73,17,100
+Giraffe,Sudden fleeing,10,56,28,96
+Elephant,Repeated agitation,1,95,6,74
+Giraffe,Repeated agitation,9,69,4,86
+Crocodile,Abnormal grouping,5,98,4,72
+Crocodile,Repeated agitation,9,8,25,69
+Elephant,Unusual silence,8,96,3,90
+Crocodile,Abnormal grouping,9,33,3,62
+Elephant,Sudden fleeing,9,23,4,87
+Giraffe,Unusual silence,6,72,9,64
+Crocodile,Sudden fleeing,1,33,7,50
+Flamingo,Unusual silence,8,41,5,69
+Crocodile,Abnormal grouping,5,100,1,81
+Giraffe,Sudden movement,3,100,9,83
+Crocodile,Abnormal grouping,9,47,10,77
+Elephant,Abnormal vocalization,6,59,7,78
+Flamingo,Burrowing animals emerging,9,58,2,71
+Flamingo,Sudden fleeing,7,80,2,86
+Crocodile,Sudden fleeing,1,46,5,59
+Giraffe,Sudden movement,3,71,10,70
+Elephant,Sudden movement,4,73,5,78
+Elephant,Burrowing animals emerging,9,14,36,69
+Crocodile,Abnormal grouping,9,6,3,47
+Crocodile,Unusual silence,10,12,2,56
+Crocodile,Unusual silence,6,69,4,59
+Giraffe,Sudden movement,9,14,7,53
+Giraffe,Burrowing animals emerging,8,16,8,57
+Crocodile,Sudden movement,6,36,5,57
+Crocodile,Abnormal vocalization,5,9,6,47
+Flamingo,Sudden movement,2,81,2,57
+Giraffe,Sudden movement,10,48,5,88
+Elephant,Sudden fleeing,8,49,9,100
+Elephant,Sudden movement,10,97,18,100
+Giraffe,Unusual silence,2,61,2,57
+Elephant,Repeated agitation,8,89,2,92
+Giraffe,Repeated agitation,9,44,14,84
+Elephant,Unusual silence,9,76,1,87
+Flamingo,Abnormal vocalization,10,53,18,84
+Giraffe,Sudden fleeing,10,60,18,100
+Giraffe,Sudden fleeing,9,34,3,81
+Giraffe,Burrowing animals emerging,8,58,3,78
+Giraffe,Burrowing animals emerging,7,38,2,69
+Elephant,Abnormal grouping,2,44,21,58
+Crocodile,Sudden movement,3,93,7,70
+Crocodile,Unusual silence,7,89,5,85
+Flamingo,Abnormal grouping,6,59,6,64
+Flamingo,Abnormal vocalization,1,19,14,40
+Crocodile,Unusual silence,3,57,10,59
+Flamingo,Sudden fleeing,9,44,2,89
+Flamingo,Sudden fleeing,7,65,7,82
+Elephant,Abnormal vocalization,10,60,5,87
+Flamingo,Abnormal grouping,9,88,2,89
+Crocodile,Burrowing animals emerging,1,64,13,46
+Flamingo,Unusual silence,3,17,8,44
+Giraffe,Sudden fleeing,3,59,5,84
+Giraffe,Sudden fleeing,10,31,16,83
+Flamingo,Sudden fleeing,10,24,7,83
+Flamingo,Abnormal vocalization,2,42,2,51
+Elephant,Sudden movement,4,59,6,73
+Elephant,Burrowing animals emerging,5,15,1,32
+Elephant,Sudden fleeing,5,91,6,92
+Giraffe,Repeated agitation,1,48,4,56
+Flamingo,Abnormal vocalization,7,9,10,61
+Flamingo,Unusual silence,1,14,8,32
+Flamingo,Sudden fleeing,8,66,7,97
+Elephant,Abnormal vocalization,5,46,4,62
+Giraffe,Burrowing animals emerging,2,24,7,40
+Crocodile,Unusual silence,8,58,12,76
+Elephant,Abnormal grouping,6,73,5,68
+Flamingo,Repeated agitation,4,42,2,63
+Elephant,Sudden fleeing,1,72,3,75
+Elephant,Abnormal grouping,9,18,8,69
+Elephant,Abnormal vocalization,5,41,3,71
+Giraffe,Abnormal grouping,9,14,10,71
+Elephant,Burrowing animals emerging,3,33,8,51
+Giraffe,Sudden movement,7,63,12,84
+Flamingo,Sudden fleeing,4,38,10,65
+Crocodile,Abnormal grouping,6,96,4,71
+Flamingo,Sudden fleeing,8,86,21,96
+Flamingo,Sudden fleeing,3,78,6,77
+Elephant,Abnormal vocalization,4,52,6,66
+Giraffe,Repeated agitation,9,37,15,89
+Flamingo,Sudden fleeing,1,36,6,59
+Giraffe,Sudden movement,8,80,18,93
+Giraffe,Unusual silence,9,43,2,71
+Crocodile,Abnormal grouping,7,92,7,84
+Giraffe,Unusual silence,10,6,10,61
+Flamingo,Unusual silence,4,48,2,49
+Crocodile,Burrowing animals emerging,1,10,13,24
+Giraffe,Sudden fleeing,3,85,3,83
+Crocodile,Abnormal grouping,9,72,3,75
+Giraffe,Abnormal vocalization,9,73,3,84
+Crocodile,Unusual silence,9,8,11,57
+Flamingo,Burrowing animals emerging,9,54,1,62
+Flamingo,Unusual silence,10,42,4,71
+Flamingo,Abnormal vocalization,6,16,4,58
+Crocodile,Abnormal grouping,5,74,2,61
+Flamingo,Burrowing animals emerging,10,35,15,66
+Crocodile,Repeated agitation,5,89,7,84
+Flamingo,Unusual silence,9,61,13,80
+Giraffe,Unusual silence,8,92,3,96
+Elephant,Sudden fleeing,4,29,16,67
+Elephant,Burrowing animals emerging,1,55,13,49
+Flamingo,Repeated agitation,6,28,5,68
+Elephant,Repeated agitation,2,38,30,63
+Crocodile,Burrowing animals emerging,6,28,3,59
+Crocodile,Abnormal grouping,1,38,7,41
+Elephant,Unusual silence,6,41,10,60
+Crocodile,Abnormal grouping,4,12,4,30
+Elephant,Sudden fleeing,7,43,12,87
+Crocodile,Sudden movement,9,57,8,78
+Flamingo,Abnormal vocalization,2,42,9,52
+Giraffe,Sudden movement,8,37,7,69
+Crocodile,Repeated agitation,6,39,17,70
+Crocodile,Abnormal grouping,3,59,7,52
+Crocodile,Repeated agitation,4,46,25,69
+Giraffe,Sudden fleeing,10,39,2,81
+Crocodile,Sudden movement,4,46,8,58
+Flamingo,Abnormal grouping,4,45,20,67
+Flamingo,Sudden fleeing,3,8,4,50
+Giraffe,Sudden movement,7,14,1,52
+Flamingo,Sudden movement,5,33,6,66
+Crocodile,Unusual silence,4,18,18,52
+Flamingo,Sudden movement,1,10,12,37
+Elephant,Unusual silence,8,34,15,71
+Giraffe,Sudden fleeing,3,55,3,69
+Flamingo,Burrowing animals emerging,4,37,21,50
+Flamingo,Sudden movement,4,82,8,86
+Elephant,Abnormal grouping,3,71,3,56
+Giraffe,Burrowing animals emerging,8,19,15,51
+Elephant,Abnormal grouping,7,44,3,68
+Giraffe,Sudden fleeing,2,40,10,54
+Giraffe,Unusual silence,10,9,11,67
+Crocodile,Sudden movement,7,33,9,56
+Crocodile,Abnormal grouping,3,80,3,61
+Crocodile,Repeated agitation,2,73,40,71
+Elephant,Abnormal grouping,8,64,6,87
+Flamingo,Abnormal grouping,8,95,6,75
+Flamingo,Sudden fleeing,10,9,3,68
+Elephant,Sudden fleeing,7,25,15,87
+Elephant,Abnormal grouping,7,99,1,84
+Flamingo,Sudden movement,1,79,21,68
+Giraffe,Repeated agitation,1,22,3,50
+Elephant,Unusual silence,9,8,12,54
+Elephant,Burrowing animals emerging,5,91,6,78
+Flamingo,Repeated agitation,9,19,15,71
+Giraffe,Sudden movement,8,53,4,83
+Elephant,Abnormal vocalization,8,32,6,73
+Giraffe,Unusual silence,3,21,10,48
+Elephant,Burrowing animals emerging,8,26,5,66
+Flamingo,Abnormal vocalization,6,81,3,79
+Crocodile,Sudden movement,3,9,8,29
+Giraffe,Abnormal grouping,8,74,6,85
+Crocodile,Abnormal vocalization,5,39,7,55
+Flamingo,Repeated agitation,9,92,6,94
+Flamingo,Abnormal vocalization,3,93,9,73
+Giraffe,Repeated agitation,1,55,9,55
+Crocodile,Abnormal grouping,4,28,1,48
+Elephant,Abnormal vocalization,5,74,3,73
+Giraffe,Sudden movement,7,36,5,71
+Crocodile,Sudden movement,8,44,1,58
+Giraffe,Sudden fleeing,7,91,14,100
+Crocodile,Repeated agitation,10,86,16,96
+Crocodile,Abnormal grouping,1,15,5,27
+Elephant,Burrowing animals emerging,8,33,2,77
+Crocodile,Abnormal grouping,3,24,22,53
+Elephant,Sudden fleeing,3,56,6,67
+Flamingo,Abnormal vocalization,9,10,21,64
+Giraffe,Sudden fleeing,4,32,6,68
+Elephant,Burrowing animals emerging,4,98,3,74
+Flamingo,Abnormal vocalization,9,82,1,93
+Giraffe,Abnormal vocalization,10,83,17,100
+Giraffe,Sudden fleeing,10,87,8,100
+Flamingo,Repeated agitation,1,69,37,61
+Giraffe,Burrowing animals emerging,7,17,11,46
+Crocodile,Sudden movement,5,43,2,59
+Crocodile,Abnormal vocalization,4,28,4,54
+Elephant,Repeated agitation,1,27,8,51
+Elephant,Sudden fleeing,3,18,18,66
+Flamingo,Abnormal vocalization,5,12,5,63
+Flamingo,Repeated agitation,3,71,11,65
+Flamingo,Abnormal grouping,10,97,1,84
+Crocodile,Abnormal vocalization,7,7,7,57
+Flamingo,Sudden fleeing,2,74,5,73
+Elephant,Abnormal grouping,4,20,1,50
+Elephant,Unusual silence,3,9,14,45
+Crocodile,Sudden fleeing,2,28,20,54
+Crocodile,Abnormal vocalization,3,63,24,69
+Giraffe,Abnormal grouping,8,91,11,90
+Crocodile,Repeated agitation,5,9,1,52
+Elephant,Abnormal grouping,5,52,4,62
+Crocodile,Abnormal grouping,9,91,14,94
+Elephant,Abnormal grouping,9,67,8,89
+Giraffe,Sudden movement,2,74,32,69
+Crocodile,Abnormal vocalization,5,72,9,72
+Giraffe,Repeated agitation,6,24,4,70
+Flamingo,Sudden fleeing,4,30,3,51
+Crocodile,Sudden fleeing,5,84,2,93
+Giraffe,Sudden fleeing,9,28,4,86
+Elephant,Abnormal grouping,1,90,3,65
+Giraffe,Sudden movement,4,6,2,50
+Flamingo,Abnormal vocalization,10,28,7,74
+Giraffe,Abnormal grouping,10,7,1,50
+Elephant,Unusual silence,8,83,7,95
+Elephant,Abnormal vocalization,3,81,34,93
+Giraffe,Repeated agitation,10,51,4,86
+Elephant,Repeated agitation,10,97,37,100
+Crocodile,Repeated agitation,1,65,4,54
+Giraffe,Sudden fleeing,10,16,5,66
+Giraffe,Abnormal vocalization,8,51,3,68
+Giraffe,Unusual silence,8,10,2,53
+Giraffe,Abnormal vocalization,1,37,38,60
+Crocodile,Unusual silence,8,60,8,62
+Flamingo,Abnormal grouping,7,74,5,80
+Giraffe,Abnormal vocalization,1,55,6,65
+Elephant,Abnormal grouping,6,10,4,50
+Giraffe,Abnormal grouping,7,91,5,97
+Crocodile,Abnormal grouping,5,22,5,45
+Flamingo,Abnormal vocalization,1,13,26,37
+Giraffe,Sudden movement,5,9,23,50
+Flamingo,Repeated agitation,5,43,8,63
+Giraffe,Abnormal grouping,1,93,14,70
+Elephant,Abnormal vocalization,1,35,4,49
+Elephant,Sudden movement,2,95,8,78
+Giraffe,Unusual silence,9,43,7,62
+Elephant,Burrowing animals emerging,6,74,5,83
+Flamingo,Sudden fleeing,3,78,5,76
+Flamingo,Abnormal grouping,3,82,13,68
+Flamingo,Repeated agitation,6,98,3,90
+Flamingo,Repeated agitation,10,87,28,100
+Flamingo,Sudden movement,4,21,19,67
+Elephant,Sudden movement,5,39,13,59
+Elephant,Repeated agitation,1,59,3,44
+Flamingo,Burrowing animals emerging,1,18,23,30
+Crocodile,Abnormal grouping,5,73,4,67
+Crocodile,Sudden fleeing,10,20,5,78
+Crocodile,Abnormal grouping,3,91,4,70
+Elephant,Abnormal vocalization,1,98,5,71
+Elephant,Sudden movement,1,35,23,57
+Giraffe,Burrowing animals emerging,8,41,16,70
+Elephant,Abnormal vocalization,1,29,2,39
+Giraffe,Unusual silence,10,10,6,56
+Flamingo,Repeated agitation,7,21,8,55
+Crocodile,Repeated agitation,1,86,2,54
+Flamingo,Sudden movement,2,5,5,37
+Elephant,Sudden fleeing,1,53,8,53
+Giraffe,Repeated agitation,7,18,6,60
+Flamingo,Sudden fleeing,5,55,8,83
+Crocodile,Abnormal grouping,7,32,12,55
+Elephant,Abnormal vocalization,10,74,8,100
+Flamingo,Sudden fleeing,4,76,13,86
+Giraffe,Unusual silence,10,79,2,92
+Flamingo,Abnormal vocalization,7,34,15,72
+Elephant,Sudden movement,5,80,2,85
+Flamingo,Repeated agitation,8,51,4,83
+Elephant,Abnormal grouping,2,50,16,59
+Crocodile,Burrowing animals emerging,6,93,24,79
+Crocodile,Sudden movement,2,16,11,48
+Flamingo,Abnormal grouping,10,70,5,88
+Giraffe,Sudden fleeing,6,74,9,95
+Crocodile,Repeated agitation,2,77,7,65
+Elephant,Burrowing animals emerging,4,13,6,43
+Flamingo,Sudden fleeing,2,78,45,82
+Giraffe,Unusual silence,6,5,1,44
+Flamingo,Abnormal vocalization,6,77,13,75
+Crocodile,Abnormal grouping,9,89,6,88
+Giraffe,Sudden fleeing,9,49,32,89
+Elephant,Repeated agitation,3,31,1,45
+Flamingo,Burrowing animals emerging,4,79,8,67
+Crocodile,Unusual silence,10,95,5,95
+Crocodile,Sudden fleeing,7,48,17,89
+Flamingo,Abnormal vocalization,5,7,16,46
+Flamingo,Abnormal grouping,9,52,6,71
+Crocodile,Burrowing animals emerging,1,14,7,38
+Flamingo,Abnormal grouping,10,99,10,100
+Crocodile,Sudden fleeing,7,45,7,86
+Flamingo,Unusual silence,6,69,4,74
+Giraffe,Abnormal grouping,4,97,15,87
+Giraffe,Abnormal grouping,9,91,2,95
+Flamingo,Abnormal grouping,9,51,5,77
+Elephant,Burrowing animals emerging,5,37,1,65
+Elephant,Abnormal grouping,5,76,3,65
+Flamingo,Unusual silence,8,23,15,57
+Flamingo,Burrowing animals emerging,10,62,2,83
+Flamingo,Unusual silence,10,26,12,57
+Flamingo,Unusual silence,2,51,34,58
+Crocodile,Abnormal grouping,1,90,3,46
+Crocodile,Sudden movement,9,24,5,57
+Flamingo,Sudden movement,7,49,14,73
+Crocodile,Burrowing animals emerging,6,95,11,78
+Flamingo,Unusual silence,1,41,12,43
+Flamingo,Sudden fleeing,4,76,9,77
+Giraffe,Burrowing animals emerging,9,85,5,83
+Giraffe,Abnormal vocalization,6,85,3,79
+Elephant,Sudden movement,6,99,8,100
+Flamingo,Repeated agitation,7,39,3,72
+Crocodile,Repeated agitation,5,57,10,72
+Crocodile,Abnormal grouping,3,73,6,75
+Crocodile,Abnormal grouping,10,58,4,85
+Elephant,Repeated agitation,8,49,8,80
+Flamingo,Abnormal grouping,10,40,25,83
+Flamingo,Unusual silence,9,62,17,75
+Crocodile,Sudden fleeing,9,81,1,91
+Crocodile,Sudden movement,6,91,33,95
+Elephant,Burrowing animals emerging,3,73,14,63
+Crocodile,Sudden fleeing,6,12,10,60
+Giraffe,Abnormal vocalization,8,75,3,83
+Flamingo,Abnormal vocalization,9,50,1,66
+Flamingo,Abnormal vocalization,10,26,13,69
+Elephant,Sudden movement,4,63,23,82
+Crocodile,Unusual silence,7,74,9,88
+Elephant,Sudden fleeing,4,56,4,79
+Elephant,Abnormal vocalization,9,60,8,77
+Flamingo,Abnormal vocalization,6,8,13,46
+Crocodile,Sudden movement,7,93,6,98
+Elephant,Burrowing animals emerging,9,29,9,67
+Giraffe,Burrowing animals emerging,6,20,10,57
+Flamingo,Burrowing animals emerging,5,49,8,45
+Crocodile,Burrowing animals emerging,3,96,5,59
+Crocodile,Burrowing animals emerging,7,56,10,70
+Crocodile,Unusual silence,6,83,6,75
+Crocodile,Sudden fleeing,7,32,1,76
+Flamingo,Repeated agitation,3,52,2,59
+Flamingo,Abnormal grouping,8,65,12,75
+Flamingo,Abnormal vocalization,3,84,1,67
+Giraffe,Sudden movement,8,41,4,81
+Crocodile,Abnormal vocalization,3,56,38,63
+Elephant,Unusual silence,9,96,3,100
+Elephant,Sudden movement,8,71,3,92
+Giraffe,Abnormal vocalization,5,60,8,71
+Giraffe,Repeated agitation,10,9,3,70
+Giraffe,Abnormal grouping,3,89,3,72
+Flamingo,Abnormal grouping,1,28,10,50
+Elephant,Sudden movement,7,75,1,88
+Elephant,Burrowing animals emerging,4,69,23,66
+Elephant,Repeated agitation,8,80,10,88
+Flamingo,Sudden fleeing,9,13,2,73
+Crocodile,Abnormal vocalization,3,42,31,62
+Elephant,Abnormal grouping,10,31,7,83
+Flamingo,Unusual silence,10,54,19,96
+Crocodile,Abnormal grouping,5,17,3,40
+Elephant,Abnormal grouping,7,85,29,82
+Crocodile,Unusual silence,5,90,5,78
+Elephant,Abnormal grouping,10,34,4,65
+Giraffe,Sudden fleeing,5,25,2,61
+Elephant,Sudden fleeing,1,92,9,78
+Elephant,Sudden fleeing,5,62,25,75
+Crocodile,Abnormal vocalization,3,27,16,39
+Flamingo,Sudden movement,4,89,2,73
+Crocodile,Abnormal grouping,3,77,25,60
+Giraffe,Burrowing animals emerging,2,98,26,63
+Crocodile,Abnormal grouping,10,38,1,69
+Flamingo,Sudden movement,5,93,1,81
+Crocodile,Abnormal vocalization,10,7,23,65
+Crocodile,Sudden fleeing,2,59,10,62
+Flamingo,Sudden fleeing,4,10,25,74
+Giraffe,Abnormal vocalization,1,26,35,40
+Giraffe,Abnormal vocalization,4,100,12,79
+Flamingo,Repeated agitation,1,33,7,57
+Elephant,Abnormal vocalization,10,70,11,87
+Flamingo,Unusual silence,6,90,11,88
+Giraffe,Repeated agitation,7,30,14,74
+Crocodile,Burrowing animals emerging,4,78,18,59
+Crocodile,Abnormal vocalization,9,90,23,98
+Giraffe,Unusual silence,7,52,8,61
+Flamingo,Unusual silence,9,59,4,84
+Giraffe,Abnormal vocalization,10,24,28,69
+Flamingo,Sudden fleeing,10,7,4,72
+Crocodile,Abnormal vocalization,5,62,3,54
+Flamingo,Abnormal vocalization,4,81,15,71
+Flamingo,Abnormal vocalization,8,88,11,92
+Crocodile,Sudden fleeing,10,32,26,84
+Elephant,Unusual silence,4,34,3,54
+Elephant,Sudden fleeing,5,51,4,83
+Elephant,Burrowing animals emerging,4,32,7,52
+Elephant,Abnormal grouping,3,47,9,61
+Giraffe,Abnormal grouping,6,23,7,55
+Giraffe,Sudden fleeing,7,100,10,100
+Elephant,Abnormal vocalization,7,74,5,93
+Crocodile,Repeated agitation,6,57,12,78
+Giraffe,Burrowing animals emerging,5,92,1,76
+Elephant,Abnormal vocalization,7,51,8,80
+Flamingo,Burrowing animals emerging,10,24,17,72
+Elephant,Sudden fleeing,1,38,6,62
+Flamingo,Abnormal grouping,9,27,2,65
+Crocodile,Repeated agitation,8,96,4,96
+Crocodile,Sudden movement,2,92,26,73
+Elephant,Sudden movement,9,62,2,82
+Giraffe,Burrowing animals emerging,1,9,28,35
+Giraffe,Abnormal grouping,2,35,8,56
+Giraffe,Sudden movement,4,28,1,50
+Crocodile,Sudden fleeing,9,96,14,100
+Giraffe,Sudden movement,5,16,3,53
+Giraffe,Sudden fleeing,1,30,8,45
+Flamingo,Unusual silence,5,14,4,31
+Crocodile,Unusual silence,1,45,7,45
+Elephant,Abnormal grouping,4,48,24,68
+Giraffe,Burrowing animals emerging,3,68,12,55
+Crocodile,Repeated agitation,2,11,27,52
+Flamingo,Unusual silence,3,54,15,52
+Elephant,Unusual silence,3,87,7,63
+Elephant,Abnormal vocalization,3,34,3,53
+Giraffe,Abnormal grouping,3,89,1,78
+Flamingo,Abnormal grouping,1,29,42,42
+Giraffe,Unusual silence,7,32,13,62
+Flamingo,Abnormal grouping,9,8,19,52
+Elephant,Unusual silence,1,80,5,56
+Crocodile,Sudden movement,8,19,20,71
+Giraffe,Repeated agitation,8,43,4,81
+Giraffe,Repeated agitation,7,94,11,87
+Crocodile,Abnormal vocalization,3,58,1,42
+Flamingo,Burrowing animals emerging,1,34,3,34
+Giraffe,Unusual silence,8,80,2,79
+Giraffe,Abnormal vocalization,4,66,2,69
+Flamingo,Abnormal grouping,5,92,9,82
+Crocodile,Unusual silence,8,27,21,65
+Giraffe,Sudden fleeing,8,70,3,82
+Flamingo,Sudden movement,1,70,1,40
+Flamingo,Abnormal grouping,10,27,2,71
+Giraffe,Abnormal vocalization,4,38,1,49
+Giraffe,Sudden fleeing,9,6,9,65
+Flamingo,Sudden fleeing,5,78,24,94
+Elephant,Repeated agitation,9,73,7,88
+Crocodile,Sudden movement,5,24,6,39
+Giraffe,Sudden movement,1,90,7,66
+Elephant,Unusual silence,9,71,48,94
+Flamingo,Sudden fleeing,1,57,19,63
+Crocodile,Sudden fleeing,2,62,7,57
+Flamingo,Abnormal vocalization,6,23,1,55
+Crocodile,Sudden movement,5,75,9,71
+Crocodile,Burrowing animals emerging,7,18,15,43
+Flamingo,Unusual silence,6,80,6,73
+Giraffe,Sudden movement,4,33,3,61
+Giraffe,Sudden fleeing,7,65,14,83
+Crocodile,Abnormal grouping,7,85,4,68
+Giraffe,Sudden fleeing,8,50,7,84
+Elephant,Sudden fleeing,8,85,6,100
+Flamingo,Unusual silence,7,13,1,35
+Flamingo,Burrowing animals emerging,2,48,11,47
+Crocodile,Repeated agitation,2,54,1,59
+Elephant,Abnormal grouping,4,96,13,86
+Elephant,Sudden movement,8,50,1,70
+Crocodile,Abnormal vocalization,7,74,5,75
+Flamingo,Abnormal vocalization,9,21,7,71
+Flamingo,Abnormal vocalization,1,54,3,54
+Giraffe,Unusual silence,8,31,4,64
+Flamingo,Repeated agitation,1,53,2,47
+Elephant,Repeated agitation,5,92,9,88
+Flamingo,Burrowing animals emerging,5,61,15,59
+Giraffe,Sudden fleeing,9,13,5,74
+Giraffe,Sudden fleeing,3,80,12,82
+Elephant,Abnormal grouping,4,20,21,66
+Elephant,Sudden fleeing,9,90,8,100
+Elephant,Unusual silence,6,12,12,52
+Flamingo,Sudden fleeing,4,71,9,72
+Flamingo,Abnormal vocalization,6,26,7,66
+Giraffe,Burrowing animals emerging,2,10,12,41
+Crocodile,Abnormal grouping,7,50,1,57
+Elephant,Burrowing animals emerging,3,86,55,78
+Elephant,Burrowing animals emerging,5,92,15,86
+Giraffe,Burrowing animals emerging,1,66,6,43
+Flamingo,Unusual silence,2,74,9,65
+Elephant,Abnormal grouping,9,59,11,80
+Crocodile,Sudden fleeing,6,72,9,87
+Flamingo,Sudden movement,5,7,10,50
+Giraffe,Burrowing animals emerging,4,40,1,46
+Elephant,Sudden movement,4,5,8,50
+Elephant,Abnormal grouping,10,64,8,94
+Flamingo,Unusual silence,2,36,9,51
+Giraffe,Sudden fleeing,8,38,41,97
+Flamingo,Abnormal vocalization,7,50,3,66
+Crocodile,Sudden fleeing,9,62,1,96
+Elephant,Unusual silence,8,48,41,77
+Elephant,Repeated agitation,10,42,6,83
+Giraffe,Sudden fleeing,5,14,8,66
+Elephant,Unusual silence,9,29,11,73
+Elephant,Sudden movement,10,23,14,70
+Flamingo,Abnormal vocalization,4,97,14,80
+Crocodile,Unusual silence,3,50,5,51
+Giraffe,Sudden fleeing,7,64,26,93
+Flamingo,Abnormal grouping,9,13,2,51
+Crocodile,Unusual silence,1,14,14,42
+Elephant,Sudden fleeing,8,66,19,100
+Giraffe,Abnormal vocalization,8,32,2,54
+Giraffe,Abnormal vocalization,7,80,1,87
+Elephant,Sudden movement,2,42,5,56
+Flamingo,Unusual silence,4,16,4,29
+Giraffe,Sudden movement,8,83,12,95
+Elephant,Unusual silence,10,51,5,89
+Crocodile,Sudden movement,8,72,18,81
+Crocodile,Abnormal grouping,1,71,10,55
+Elephant,Sudden fleeing,3,82,10,93
+Elephant,Sudden movement,2,50,19,80
+Crocodile,Burrowing animals emerging,9,20,6,44
+Flamingo,Abnormal vocalization,2,44,11,50
+Crocodile,Repeated agitation,9,78,8,97
+Flamingo,Abnormal vocalization,7,33,7,58
+Giraffe,Abnormal vocalization,4,60,1,59
+Giraffe,Abnormal vocalization,7,50,12,67
+Flamingo,Burrowing animals emerging,8,43,5,63
+Giraffe,Unusual silence,6,35,6,62
+Giraffe,Burrowing animals emerging,3,66,19,55
+Crocodile,Burrowing animals emerging,6,50,9,55
+Crocodile,Burrowing animals emerging,7,27,4,45
+Crocodile,Abnormal grouping,1,35,3,46
+Giraffe,Abnormal grouping,5,57,16,69
+Flamingo,Abnormal grouping,8,57,9,76
+Crocodile,Burrowing animals emerging,8,60,7,70
+Crocodile,Repeated agitation,8,99,4,100
+Elephant,Burrowing animals emerging,2,75,1,56
+Crocodile,Sudden fleeing,6,99,9,92
+Elephant,Abnormal grouping,9,35,5,73
+Giraffe,Sudden fleeing,8,67,4,96
+Crocodile,Burrowing animals emerging,1,86,13,46
+Flamingo,Abnormal grouping,5,80,1,62
+Elephant,Unusual silence,6,68,2,74
+Crocodile,Sudden movement,2,41,10,52
+Flamingo,Burrowing animals emerging,2,74,9,56
+Crocodile,Abnormal vocalization,6,49,11,73
+Giraffe,Repeated agitation,2,74,4,73
+Giraffe,Repeated agitation,4,99,1,82
+Crocodile,Abnormal grouping,9,79,5,86
+Flamingo,Unusual silence,9,88,1,84
+Crocodile,Abnormal grouping,4,97,8,86
+Giraffe,Sudden movement,7,87,13,90
+Giraffe,Burrowing animals emerging,10,7,17,61
+Crocodile,Abnormal grouping,10,42,6,67
+Flamingo,Sudden fleeing,5,15,19,76
+Giraffe,Sudden movement,1,31,10,39
+Crocodile,Abnormal grouping,4,38,5,57
+Crocodile,Repeated agitation,3,17,12,46
+Elephant,Abnormal vocalization,7,40,10,81
+Giraffe,Burrowing animals emerging,8,82,18,76
+Crocodile,Burrowing animals emerging,9,57,4,69
+Flamingo,Unusual silence,8,38,1,60
+Elephant,Abnormal vocalization,8,69,60,94
+Flamingo,Sudden fleeing,8,53,4,79
+Elephant,Unusual silence,6,9,3,40
+Flamingo,Abnormal vocalization,7,28,11,61
+Crocodile,Sudden fleeing,2,72,11,61
+Flamingo,Abnormal grouping,7,56,34,74
+Elephant,Repeated agitation,7,11,8,56
+Elephant,Abnormal vocalization,6,34,3,63
+Giraffe,Repeated agitation,4,80,5,72
+Elephant,Burrowing animals emerging,4,42,10,65
+Flamingo,Sudden movement,10,38,3,74
+Giraffe,Abnormal vocalization,5,58,7,69
+Elephant,Unusual silence,10,19,36,62
+Flamingo,Repeated agitation,10,42,6,79
+Crocodile,Sudden fleeing,10,80,7,100
+Elephant,Sudden movement,7,55,6,71
+Crocodile,Burrowing animals emerging,2,47,11,51
+Elephant,Repeated agitation,4,91,21,91
+Crocodile,Unusual silence,8,27,13,60
+Elephant,Burrowing animals emerging,3,34,7,48
+Flamingo,Abnormal vocalization,5,36,1,66
+Giraffe,Sudden fleeing,1,36,7,58
+Flamingo,Abnormal vocalization,2,20,1,24
+Flamingo,Abnormal grouping,8,6,13,57
+Elephant,Abnormal vocalization,9,29,16,67
+Elephant,Burrowing animals emerging,4,9,5,39
+Giraffe,Unusual silence,5,25,13,56
+Giraffe,Repeated agitation,3,100,2,79
+Elephant,Sudden movement,6,85,16,84
+Giraffe,Sudden movement,4,14,7,51
+Giraffe,Sudden movement,4,40,10,58
+Giraffe,Burrowing animals emerging,2,90,14,61
+Flamingo,Burrowing animals emerging,2,56,6,35
+Giraffe,Sudden movement,3,46,1,67
+Crocodile,Unusual silence,5,43,7,56
+Giraffe,Sudden movement,4,83,9,81
+Giraffe,Abnormal vocalization,8,58,17,83
+Elephant,Sudden fleeing,2,69,7,72
+Crocodile,Repeated agitation,3,26,3,51
+Flamingo,Unusual silence,8,88,15,94
+Elephant,Repeated agitation,5,21,11,59
+Giraffe,Unusual silence,8,18,9,58
+Giraffe,Repeated agitation,1,82,5,56
+Elephant,Abnormal vocalization,7,92,11,88
+Giraffe,Sudden movement,5,28,10,56
+Elephant,Burrowing animals emerging,3,23,5,49
+Flamingo,Repeated agitation,10,30,13,76
+Giraffe,Sudden movement,10,79,8,100
+Crocodile,Unusual silence,10,23,2,53
+Giraffe,Sudden fleeing,7,39,8,77
+Elephant,Unusual silence,1,33,4,34
+Flamingo,Sudden movement,7,11,8,45
+Crocodile,Abnormal vocalization,1,48,3,47
+Elephant,Unusual silence,5,54,1,53
+Giraffe,Unusual silence,6,88,42,77
+Giraffe,Sudden movement,8,32,1,70
+Elephant,Abnormal vocalization,9,41,2,67
+Elephant,Repeated agitation,4,79,6,89
+Elephant,Unusual silence,8,72,20,85
+Crocodile,Sudden movement,9,20,28,78
+Elephant,Burrowing animals emerging,8,55,14,72
+Giraffe,Unusual silence,7,78,4,75
+Crocodile,Sudden fleeing,4,62,7,78
+Flamingo,Sudden fleeing,4,18,7,62
+Crocodile,Abnormal grouping,5,47,2,49
+Crocodile,Abnormal grouping,1,60,6,44
+Giraffe,Repeated agitation,5,12,1,52
+Elephant,Unusual silence,6,19,7,54
+Elephant,Unusual silence,8,34,11,68
+Elephant,Burrowing animals emerging,3,82,9,61
+Crocodile,Unusual silence,1,36,2,36
+Flamingo,Abnormal vocalization,7,91,28,88
+Flamingo,Burrowing animals emerging,4,38,7,50
+Giraffe,Burrowing animals emerging,3,18,14,52
+Crocodile,Sudden movement,7,96,9,96
+Crocodile,Unusual silence,5,39,5,56
+Elephant,Burrowing animals emerging,6,22,13,55
+Crocodile,Sudden fleeing,1,87,2,69
+Flamingo,Sudden fleeing,5,60,6,62
+Giraffe,Unusual silence,9,67,11,100
+Flamingo,Sudden movement,7,9,2,60
+Giraffe,Sudden movement,10,27,9,76
+Flamingo,Burrowing animals emerging,5,75,2,64
+Giraffe,Burrowing animals emerging,8,93,5,85
+Flamingo,Unusual silence,2,56,21,48
+Elephant,Burrowing animals emerging,3,24,32,50
+Crocodile,Repeated agitation,2,88,10,81
+Crocodile,Unusual silence,2,42,12,47
+Crocodile,Burrowing animals emerging,5,29,15,63
+Crocodile,Abnormal vocalization,4,25,8,52
+Flamingo,Abnormal vocalization,1,63,2,43
+Giraffe,Sudden movement,6,72,3,77
+Elephant,Repeated agitation,8,86,2,98
+Flamingo,Abnormal vocalization,8,87,2,94
+Elephant,Sudden fleeing,8,55,1,84
+Flamingo,Unusual silence,7,85,12,77
+Flamingo,Burrowing animals emerging,10,13,20,66
+Crocodile,Sudden movement,10,68,12,95
+Giraffe,Unusual silence,8,5,18,39
+Elephant,Abnormal vocalization,1,11,4,33
+Elephant,Sudden movement,1,36,4,47
+Flamingo,Burrowing animals emerging,8,77,16,84
+Giraffe,Unusual silence,3,57,5,56
+Elephant,Burrowing animals emerging,7,65,4,72
+Flamingo,Sudden fleeing,9,50,2,75
+Crocodile,Burrowing animals emerging,10,58,8,73
+Elephant,Sudden movement,6,8,2,45
+Flamingo,Burrowing animals emerging,7,35,3,55
+Flamingo,Unusual silence,1,69,4,51
+Crocodile,Sudden movement,6,38,8,65
+Flamingo,Sudden movement,2,6,12,41
+Giraffe,Repeated agitation,2,92,6,90
+Flamingo,Repeated agitation,9,51,5,78
+Giraffe,Sudden movement,2,21,10,37
+Crocodile,Burrowing animals emerging,2,69,1,41
+Giraffe,Abnormal grouping,2,77,13,65
+Elephant,Abnormal vocalization,9,40,6,80
+Crocodile,Abnormal vocalization,6,80,4,64
+Giraffe,Abnormal vocalization,4,58,13,66
+Crocodile,Repeated agitation,6,62,5,71
+Crocodile,Sudden fleeing,10,66,11,94
+Crocodile,Abnormal vocalization,4,10,24,43
+Flamingo,Abnormal grouping,3,91,1,68
+Elephant,Burrowing animals emerging,7,63,2,65
+Giraffe,Abnormal vocalization,9,37,12,71
+Crocodile,Abnormal vocalization,2,20,7,45
+Crocodile,Abnormal vocalization,3,73,30,74
+Elephant,Burrowing animals emerging,9,95,13,93
+Flamingo,Repeated agitation,6,87,16,100
+Crocodile,Burrowing animals emerging,7,10,34,39
+Crocodile,Repeated agitation,7,24,6,53
+Flamingo,Burrowing animals emerging,2,76,8,53
+Crocodile,Repeated agitation,10,100,2,99
+Flamingo,Abnormal vocalization,6,94,7,88
+Crocodile,Abnormal grouping,7,44,3,54
+Crocodile,Abnormal grouping,2,27,21,39
+Flamingo,Abnormal vocalization,10,60,7,91
+Crocodile,Unusual silence,10,40,2,56
+Crocodile,Repeated agitation,10,42,5,83
+Crocodile,Sudden fleeing,10,51,31,95
+Flamingo,Abnormal grouping,1,14,3,40
+Giraffe,Sudden fleeing,1,32,12,61
+Crocodile,Abnormal vocalization,3,81,16,70
+Flamingo,Abnormal vocalization,8,23,14,68
+Flamingo,Unusual silence,7,5,21,52
+Crocodile,Abnormal vocalization,6,18,10,65
+Giraffe,Sudden fleeing,2,63,3,69
+Flamingo,Repeated agitation,10,71,6,84
+Giraffe,Sudden fleeing,2,9,1,45
+Giraffe,Abnormal vocalization,6,38,4,57
+Giraffe,Sudden movement,4,76,6,75
+Flamingo,Sudden movement,3,16,13,44
+Flamingo,Abnormal vocalization,4,16,5,56
+Crocodile,Abnormal vocalization,6,77,10,74
+Elephant,Repeated agitation,2,33,19,59
+Elephant,Burrowing animals emerging,5,37,20,69
+Crocodile,Abnormal vocalization,7,68,20,75
+Flamingo,Abnormal grouping,5,30,6,60
+Crocodile,Burrowing animals emerging,6,15,3,47
+Giraffe,Unusual silence,5,42,10,57
+Crocodile,Sudden movement,7,85,30,88
+Flamingo,Unusual silence,8,28,4,54
+Elephant,Unusual silence,2,99,7,77
+Crocodile,Abnormal vocalization,6,54,15,71
+Flamingo,Repeated agitation,7,71,16,95
+Elephant,Sudden fleeing,1,90,5,65
+Crocodile,Sudden fleeing,9,22,26,76
+Giraffe,Sudden fleeing,6,75,21,91
+Crocodile,Abnormal vocalization,4,70,28,80
+Elephant,Repeated agitation,9,50,5,86
+Flamingo,Unusual silence,5,21,4,47
+Flamingo,Repeated agitation,9,63,7,89
+Crocodile,Burrowing animals emerging,4,36,8,50
+Giraffe,Abnormal grouping,5,63,43,80
+Flamingo,Abnormal vocalization,4,32,5,53
+Crocodile,Burrowing animals emerging,9,69,19,85
+Giraffe,Abnormal grouping,10,98,4,98
+Elephant,Sudden fleeing,9,96,2,100
+Giraffe,Abnormal vocalization,4,35,2,48
+Elephant,Sudden fleeing,10,62,1,93
+Crocodile,Abnormal vocalization,7,56,11,82
+Flamingo,Abnormal grouping,4,37,6,49
+Giraffe,Abnormal grouping,8,70,14,89
+Crocodile,Repeated agitation,8,94,10,100
+Crocodile,Abnormal vocalization,7,33,11,64
+Elephant,Burrowing animals emerging,2,80,2,57
+Elephant,Sudden movement,10,90,5,100
+Elephant,Sudden fleeing,4,7,18,59
+Flamingo,Repeated agitation,1,64,3,66
+Crocodile,Abnormal vocalization,6,20,8,56
+Crocodile,Sudden fleeing,3,83,12,79
+Flamingo,Abnormal grouping,2,20,6,37
+Giraffe,Sudden movement,5,86,3,78
+Elephant,Repeated agitation,4,87,15,78
+Crocodile,Burrowing animals emerging,4,87,10,81
+Crocodile,Abnormal grouping,9,87,5,98
+Crocodile,Abnormal vocalization,6,100,38,89
+Giraffe,Abnormal vocalization,1,66,5,59
+Elephant,Abnormal grouping,10,82,3,100
+Elephant,Repeated agitation,5,92,9,84
+Giraffe,Abnormal grouping,1,43,27,47
+Elephant,Sudden movement,6,68,2,69
+Elephant,Sudden movement,3,52,15,71
+Elephant,Abnormal grouping,4,54,1,48
+Giraffe,Repeated agitation,5,29,7,56
+Flamingo,Sudden movement,7,70,5,86
+Crocodile,Abnormal grouping,8,14,8,54
+Giraffe,Burrowing animals emerging,1,84,10,58
+Flamingo,Burrowing animals emerging,1,42,17,38
+Elephant,Sudden fleeing,8,93,6,100
+Crocodile,Burrowing animals emerging,6,13,14,55
+Giraffe,Unusual silence,1,16,21,43
+Giraffe,Sudden fleeing,7,40,14,79
+Elephant,Abnormal vocalization,1,63,2,56
+Elephant,Burrowing animals emerging,3,77,3,52
+Elephant,Sudden fleeing,10,12,3,80
+Elephant,Repeated agitation,2,43,8,59
+Flamingo,Burrowing animals emerging,9,91,1,89
+Elephant,Abnormal grouping,1,54,7,61
+Giraffe,Repeated agitation,6,95,5,88
+Elephant,Abnormal vocalization,2,57,1,47
+Elephant,Burrowing animals emerging,8,97,25,96
+Giraffe,Abnormal grouping,5,26,1,43
+Crocodile,Unusual silence,7,31,1,52
+Giraffe,Repeated agitation,3,10,3,47
+Elephant,Sudden fleeing,5,6,2,61
+Elephant,Sudden fleeing,10,71,2,100
+Giraffe,Sudden fleeing,4,94,2,83
+Giraffe,Abnormal grouping,5,40,11,68
+Giraffe,Repeated agitation,7,48,15,78
+Crocodile,Abnormal vocalization,4,93,3,71
+Elephant,Burrowing animals emerging,10,89,3,93
+Elephant,Burrowing animals emerging,3,55,5,52
+Crocodile,Repeated agitation,6,47,23,68
+Crocodile,Abnormal grouping,10,51,28,74
+Giraffe,Sudden fleeing,4,98,2,91
+Giraffe,Repeated agitation,3,42,15,59
+Elephant,Burrowing animals emerging,4,16,1,44
+Flamingo,Repeated agitation,2,35,19,37
+Crocodile,Unusual silence,9,69,7,83
+Flamingo,Burrowing animals emerging,9,45,7,78
+Giraffe,Repeated agitation,6,43,6,66
+Flamingo,Sudden fleeing,7,17,17,72
+Flamingo,Abnormal grouping,1,22,5,34
+Elephant,Abnormal grouping,6,86,1,81
+Elephant,Repeated agitation,5,99,4,89
+Elephant,Abnormal grouping,10,39,11,80
+Giraffe,Abnormal vocalization,5,54,5,65
+Crocodile,Unusual silence,6,60,14,62
+Elephant,Repeated agitation,4,65,19,76
+Giraffe,Unusual silence,5,26,13,61
+Giraffe,Sudden movement,6,74,5,82
+Crocodile,Abnormal grouping,1,18,23,22
+Flamingo,Abnormal grouping,7,32,29,62
+Crocodile,Repeated agitation,10,95,3,100
+Flamingo,Unusual silence,3,56,2,46
+Flamingo,Unusual silence,3,85,9,65
+Elephant,Burrowing animals emerging,2,62,8,52
+Crocodile,Repeated agitation,1,50,9,55
+Flamingo,Abnormal vocalization,7,83,9,98
+Elephant,Sudden fleeing,4,74,3,66
+Elephant,Sudden fleeing,5,81,35,85
+Crocodile,Sudden fleeing,2,23,4,52
+Giraffe,Sudden fleeing,8,53,4,92
+Elephant,Unusual silence,8,12,5,48
+Flamingo,Sudden movement,10,94,41,100
+Crocodile,Abnormal grouping,1,50,5,25
+Flamingo,Sudden fleeing,5,65,3,68
+Elephant,Burrowing animals emerging,9,64,12,94
+Crocodile,Burrowing animals emerging,10,98,2,87
+Flamingo,Repeated agitation,6,95,9,93
+Giraffe,Abnormal vocalization,8,81,11,91
+Giraffe,Abnormal vocalization,9,36,10,70
+Giraffe,Sudden fleeing,6,91,2,88
+Elephant,Burrowing animals emerging,2,38,21,54
+Giraffe,Abnormal grouping,1,68,13,55
+Elephant,Unusual silence,2,98,5,73
+Flamingo,Abnormal grouping,2,39,41,51
+Flamingo,Repeated agitation,8,92,3,100
+Flamingo,Unusual silence,3,92,24,65
+Crocodile,Abnormal vocalization,7,17,8,58
+Crocodile,Abnormal grouping,2,16,5,24
+Giraffe,Sudden fleeing,4,51,1,60
+Crocodile,Abnormal grouping,7,71,9,72
+Flamingo,Sudden movement,6,70,8,74
+Flamingo,Abnormal vocalization,4,73,5,64
+Crocodile,Sudden movement,5,67,2,65
+Crocodile,Burrowing animals emerging,1,11,23,26
+Giraffe,Burrowing animals emerging,1,44,25,34
+Elephant,Abnormal vocalization,8,63,46,88
+Giraffe,Abnormal vocalization,3,59,15,62
+Giraffe,Unusual silence,8,38,2,68
+Flamingo,Unusual silence,3,84,4,74
+Crocodile,Abnormal grouping,2,17,2,33
+Giraffe,Sudden movement,4,6,3,50
+Crocodile,Abnormal vocalization,10,74,8,84
+Crocodile,Abnormal vocalization,7,80,3,74
+Flamingo,Burrowing animals emerging,3,46,6,50
+Elephant,Unusual silence,3,6,1,45
+Giraffe,Sudden fleeing,3,69,24,77
+Elephant,Repeated agitation,4,80,3,77
+Elephant,Sudden movement,7,41,7,77
+Giraffe,Burrowing animals emerging,1,67,8,52
+Elephant,Sudden fleeing,8,41,6,82
+Crocodile,Sudden movement,4,78,8,74
+Flamingo,Sudden movement,8,62,9,76
+Elephant,Sudden movement,9,45,19,88
+Giraffe,Abnormal grouping,7,20,9,56
+Giraffe,Abnormal vocalization,5,7,3,36
+Flamingo,Sudden movement,10,44,26,78
+Flamingo,Burrowing animals emerging,1,18,1,18
+Giraffe,Abnormal vocalization,4,15,8,44
+Elephant,Unusual silence,8,22,7,64
+Flamingo,Burrowing animals emerging,1,100,3,63
+Flamingo,Repeated agitation,5,99,12,100
+Flamingo,Sudden movement,10,72,3,88
+Elephant,Unusual silence,10,34,8,77
+Flamingo,Burrowing animals emerging,9,70,5,83
+Giraffe,Abnormal vocalization,9,45,4,82
+Elephant,Burrowing animals emerging,6,25,10,53
+Giraffe,Sudden movement,6,86,4,78
+Elephant,Burrowing animals emerging,8,62,3,72
+Crocodile,Repeated agitation,3,22,8,50
+Flamingo,Abnormal vocalization,7,35,3,74
+Flamingo,Repeated agitation,6,22,9,63
+Crocodile,Abnormal grouping,9,53,23,84
+Crocodile,Abnormal grouping,5,48,24,59
+Elephant,Unusual silence,2,82,6,64
+Elephant,Burrowing animals emerging,4,88,19,73
+Elephant,Repeated agitation,4,28,3,60
+Flamingo,Unusual silence,9,29,5,46
+Elephant,Abnormal vocalization,9,54,16,92
+Flamingo,Burrowing animals emerging,9,47,4,70
+Elephant,Abnormal grouping,10,30,5,70
+Giraffe,Repeated agitation,8,58,12,81
+Crocodile,Burrowing animals emerging,8,50,7,73
+Giraffe,Sudden movement,1,76,13,66
+Flamingo,Abnormal grouping,1,97,5,60
+Flamingo,Sudden fleeing,5,75,8,89
+Flamingo,Sudden movement,1,32,16,51
+Giraffe,Burrowing animals emerging,4,86,5,60
+Flamingo,Burrowing animals emerging,10,39,3,72
+Elephant,Sudden fleeing,1,8,2,48
+Giraffe,Sudden fleeing,4,21,6,65
+Flamingo,Burrowing animals emerging,5,6,5,39
+Flamingo,Abnormal grouping,10,49,12,74
+Elephant,Sudden fleeing,3,26,8,67
+Flamingo,Sudden fleeing,1,73,6,68
+Flamingo,Unusual silence,10,61,33,90
+Elephant,Repeated agitation,1,55,8,66
+Flamingo,Abnormal vocalization,2,78,8,58
+Giraffe,Abnormal grouping,1,97,41,68
+Elephant,Repeated agitation,3,58,15,73
+Giraffe,Unusual silence,6,90,3,70
+Flamingo,Abnormal vocalization,7,70,17,84
+Crocodile,Repeated agitation,6,84,9,75
+Crocodile,Abnormal grouping,3,16,12,38
+Elephant,Sudden movement,6,48,11,77
+Flamingo,Abnormal vocalization,10,43,19,80
+Flamingo,Abnormal vocalization,10,73,32,96
+Giraffe,Sudden movement,10,73,3,91
+Flamingo,Unusual silence,8,10,19,65
+Flamingo,Unusual silence,2,98,7,73
+Elephant,Burrowing animals emerging,3,29,5,36
+Flamingo,Abnormal vocalization,5,68,10,78
+Crocodile,Unusual silence,1,97,7,58
+Crocodile,Sudden fleeing,3,21,3,62
+Giraffe,Unusual silence,5,53,8,58
+Elephant,Abnormal vocalization,10,71,5,83
+Elephant,Repeated agitation,2,89,2,70
+Flamingo,Burrowing animals emerging,2,13,12,42
+Flamingo,Sudden movement,2,34,41,47
+Crocodile,Sudden movement,8,73,11,83
+Crocodile,Sudden fleeing,6,77,26,93
+Giraffe,Sudden movement,7,92,10,95
+Giraffe,Abnormal grouping,6,36,20,63
+Flamingo,Sudden fleeing,10,94,9,100
+Elephant,Sudden fleeing,10,90,7,100
+Crocodile,Burrowing animals emerging,4,41,1,34
+Flamingo,Sudden fleeing,6,94,18,96
+Elephant,Unusual silence,10,75,3,87
+Flamingo,Abnormal vocalization,5,30,3,46
+Crocodile,Burrowing animals emerging,7,85,14,80
+Elephant,Burrowing animals emerging,4,28,6,52
+Flamingo,Sudden fleeing,3,91,6,93
+Giraffe,Repeated agitation,5,72,5,74
+Elephant,Burrowing animals emerging,10,37,8,76
+Elephant,Sudden movement,3,68,7,68
+Giraffe,Sudden movement,5,47,2,69
+Flamingo,Repeated agitation,2,77,4,71
+Crocodile,Abnormal vocalization,2,62,7,50
+Crocodile,Unusual silence,7,80,4,78
+Flamingo,Burrowing animals emerging,7,92,16,86
+Crocodile,Abnormal grouping,6,90,6,75
+Elephant,Burrowing animals emerging,9,17,25,60
+Flamingo,Repeated agitation,2,99,13,72
+Flamingo,Burrowing animals emerging,9,58,2,86
+Elephant,Burrowing animals emerging,4,100,8,70
+Flamingo,Abnormal vocalization,7,47,16,68
+Giraffe,Repeated agitation,8,73,11,89
+Giraffe,Burrowing animals emerging,10,6,5,51
+Giraffe,Abnormal grouping,4,24,23,48
+Giraffe,Abnormal vocalization,6,91,2,86
+Crocodile,Abnormal vocalization,4,79,7,71
+Elephant,Burrowing animals emerging,3,94,3,76
+Giraffe,Abnormal vocalization,4,74,9,77
+Flamingo,Repeated agitation,4,71,2,70
+Flamingo,Unusual silence,7,35,6,58
+Flamingo,Sudden movement,5,71,8,78
+Giraffe,Burrowing animals emerging,2,26,13,43
+Giraffe,Sudden movement,8,88,2,93
+Elephant,Sudden fleeing,10,5,20,77
+Crocodile,Abnormal grouping,2,11,18,33
+Crocodile,Abnormal vocalization,5,51,4,70
+Crocodile,Burrowing animals emerging,10,29,3,65
+Giraffe,Sudden movement,4,87,1,74
+Elephant,Burrowing animals emerging,8,61,4,65
+Giraffe,Abnormal vocalization,7,77,3,90
+Giraffe,Unusual silence,2,66,2,44
+Flamingo,Abnormal vocalization,10,84,1,93
+Flamingo,Abnormal grouping,3,40,12,46
+Crocodile,Repeated agitation,8,72,11,87
+Giraffe,Abnormal grouping,2,48,3,53
+Crocodile,Repeated agitation,2,85,2,58
+Giraffe,Sudden movement,4,65,3,62
+Giraffe,Repeated agitation,7,50,3,79
+Flamingo,Sudden fleeing,8,69,14,94
+Flamingo,Sudden movement,1,37,1,38
+Crocodile,Burrowing animals emerging,5,54,3,58
+Crocodile,Abnormal vocalization,3,39,20,41
+Elephant,Sudden movement,6,7,9,47
+Elephant,Unusual silence,3,50,12,59
+Flamingo,Abnormal grouping,4,21,4,48
+Elephant,Abnormal grouping,10,38,1,76
+Elephant,Burrowing animals emerging,3,70,3,56
+Flamingo,Unusual silence,2,89,14,70
+Elephant,Sudden movement,7,23,4,63
+Crocodile,Repeated agitation,8,87,3,99
+Flamingo,Abnormal vocalization,5,87,8,66
+Elephant,Abnormal grouping,2,93,10,68
+Flamingo,Sudden fleeing,10,31,9,83
+Elephant,Repeated agitation,6,81,15,96
+Giraffe,Repeated agitation,6,36,4,55
+Crocodile,Repeated agitation,8,87,33,87
+Crocodile,Abnormal vocalization,10,94,5,98
+Elephant,Abnormal grouping,8,66,7,89
+Giraffe,Abnormal grouping,3,22,9,43
+Elephant,Abnormal vocalization,4,33,13,59
+Elephant,Unusual silence,5,27,9,55
+Giraffe,Abnormal vocalization,3,93,4,76
+Flamingo,Repeated agitation,2,59,13,50
+Crocodile,Abnormal grouping,6,90,4,91
+Elephant,Unusual silence,7,96,3,97
+Giraffe,Sudden fleeing,4,20,4,71
+Flamingo,Sudden movement,1,20,30,40
+Flamingo,Sudden fleeing,6,47,5,84
+Crocodile,Sudden fleeing,9,54,9,86
+Flamingo,Sudden movement,4,67,18,65
+Flamingo,Burrowing animals emerging,6,14,3,50
+Flamingo,Burrowing animals emerging,10,28,14,66
+Flamingo,Abnormal vocalization,10,57,19,80
+Crocodile,Abnormal grouping,7,23,11,53
+Giraffe,Repeated agitation,2,49,20,53
+Giraffe,Abnormal vocalization,2,17,1,34
+Crocodile,Unusual silence,9,32,5,61
+Elephant,Abnormal vocalization,6,13,40,59
+Flamingo,Sudden movement,9,26,18,78
+Elephant,Repeated agitation,2,67,20,53
+Crocodile,Repeated agitation,6,84,6,73
+Crocodile,Abnormal grouping,7,90,2,81
+Elephant,Repeated agitation,6,9,3,63
+Crocodile,Sudden fleeing,7,18,6,67
+Elephant,Unusual silence,7,85,7,78
+Crocodile,Unusual silence,3,25,7,35
+Giraffe,Repeated agitation,10,70,5,92
+Crocodile,Sudden movement,1,86,17,68
+Elephant,Repeated agitation,6,52,4,70
+Giraffe,Burrowing animals emerging,5,58,2,54
+Crocodile,Sudden movement,6,82,7,81
+Giraffe,Abnormal grouping,9,69,5,87
+Crocodile,Repeated agitation,8,61,10,87
+Flamingo,Burrowing animals emerging,7,86,14,88
+Elephant,Unusual silence,8,30,19,78
+Giraffe,Sudden fleeing,4,63,4,77
+Elephant,Sudden fleeing,4,68,43,86
+Giraffe,Abnormal vocalization,9,61,2,81
+Elephant,Unusual silence,4,52,11,61
+Giraffe,Abnormal vocalization,7,32,3,59
+Crocodile,Abnormal vocalization,8,12,2,61
+Flamingo,Abnormal grouping,4,39,6,46
+Elephant,Abnormal grouping,9,86,10,98
+Giraffe,Unusual silence,4,47,3,58
+Crocodile,Abnormal vocalization,7,32,1,57
+Crocodile,Sudden fleeing,4,5,2,50
+Flamingo,Repeated agitation,10,14,5,71
+Crocodile,Abnormal vocalization,2,56,6,54
+Crocodile,Unusual silence,9,45,6,73
+Giraffe,Abnormal grouping,5,27,11,54
+Flamingo,Abnormal grouping,4,42,14,47
+Crocodile,Abnormal vocalization,2,43,6,43
+Elephant,Abnormal vocalization,3,45,2,51
+Giraffe,Sudden fleeing,2,62,22,75
+Crocodile,Burrowing animals emerging,10,78,1,76
+Flamingo,Sudden movement,7,48,12,75
+Elephant,Burrowing animals emerging,4,11,6,48
+Elephant,Sudden fleeing,2,33,3,63
+Flamingo,Unusual silence,2,29,4,38
+Flamingo,Repeated agitation,7,85,5,86
+Elephant,Sudden movement,3,32,2,58
+Giraffe,Sudden fleeing,3,36,13,70
+Crocodile,Sudden movement,10,83,23,99
+Elephant,Burrowing animals emerging,2,9,2,24
+Crocodile,Burrowing animals emerging,6,48,26,69
+Crocodile,Burrowing animals emerging,1,23,24,43
+Crocodile,Repeated agitation,5,98,2,72
+Crocodile,Sudden fleeing,9,35,10,81
+Giraffe,Sudden fleeing,8,37,19,85
+Crocodile,Abnormal grouping,1,65,12,52
+Crocodile,Abnormal grouping,5,30,16,55
+Crocodile,Burrowing animals emerging,7,24,11,66
+Crocodile,Abnormal grouping,2,87,19,68
+Flamingo,Abnormal grouping,4,49,13,60
+Elephant,Abnormal grouping,3,57,7,53
+Flamingo,Sudden fleeing,10,84,8,100
+Flamingo,Abnormal grouping,10,84,6,92
+Flamingo,Abnormal grouping,10,6,1,48
+Giraffe,Sudden movement,6,38,17,75
+Flamingo,Sudden movement,6,48,2,64
+Elephant,Unusual silence,7,63,10,78
+Giraffe,Abnormal vocalization,4,17,7,47
+Crocodile,Burrowing animals emerging,1,57,7,48
+Elephant,Sudden movement,4,52,7,67
+Giraffe,Abnormal grouping,1,35,5,50
+Giraffe,Burrowing animals emerging,9,9,4,51
+Flamingo,Unusual silence,6,40,4,59
+Crocodile,Abnormal vocalization,6,92,23,92
+Crocodile,Sudden movement,9,83,2,92
+Elephant,Burrowing animals emerging,9,61,2,94
+Elephant,Unusual silence,7,21,6,64
+Giraffe,Unusual silence,2,93,5,64
+Flamingo,Abnormal grouping,2,82,16,65
+Crocodile,Repeated agitation,8,56,17,82
+Crocodile,Burrowing animals emerging,5,74,6,62
+Crocodile,Repeated agitation,5,31,2,51
+Flamingo,Burrowing animals emerging,8,93,15,86
+Crocodile,Repeated agitation,5,23,16,56
+Giraffe,Burrowing animals emerging,1,70,2,43
+Giraffe,Unusual silence,9,61,11,82
+Flamingo,Sudden movement,2,53,3,56
+Elephant,Sudden fleeing,1,68,2,64
+Flamingo,Abnormal grouping,6,73,4,74
+Crocodile,Unusual silence,7,44,18,70
+Giraffe,Abnormal vocalization,10,25,2,69
+Giraffe,Abnormal grouping,3,18,4,47
+Elephant,Burrowing animals emerging,1,64,24,54
+Elephant,Burrowing animals emerging,1,5,24,32
+Elephant,Unusual silence,2,53,5,40
+Flamingo,Repeated agitation,7,40,3,71
+Flamingo,Sudden fleeing,7,69,4,87
+Giraffe,Abnormal grouping,5,77,7,71
+Giraffe,Abnormal vocalization,5,84,1,70
+Elephant,Sudden fleeing,2,90,2,78
+Flamingo,Unusual silence,1,5,22,31
+Flamingo,Abnormal grouping,8,66,23,75
+Crocodile,Sudden fleeing,10,100,2,100
+Crocodile,Sudden fleeing,7,74,2,85
+Flamingo,Burrowing animals emerging,10,55,2,73
+Flamingo,Repeated agitation,9,99,4,100
+Giraffe,Abnormal vocalization,8,59,22,97
+Giraffe,Sudden fleeing,8,63,4,86
+Elephant,Repeated agitation,3,61,23,79
+Flamingo,Abnormal grouping,1,37,3,33
+Elephant,Unusual silence,1,26,14,39
+Flamingo,Repeated agitation,8,78,4,89
+Crocodile,Repeated agitation,6,85,19,99
+Giraffe,Unusual silence,10,7,11,67
+Flamingo,Sudden movement,7,21,3,54
+Flamingo,Sudden movement,5,80,19,85
+Elephant,Burrowing animals emerging,10,91,9,98
+Elephant,Burrowing animals emerging,6,39,5,69
+Giraffe,Unusual silence,7,33,10,68
+Giraffe,Burrowing animals emerging,3,7,4,30
+Flamingo,Abnormal grouping,1,37,7,45
+Flamingo,Sudden fleeing,5,61,7,76
+Crocodile,Unusual silence,6,64,10,68
+Giraffe,Repeated agitation,3,31,12,49
+Elephant,Unusual silence,7,39,7,70
+Elephant,Abnormal vocalization,5,74,12,84
+Flamingo,Abnormal vocalization,1,83,23,76
+Elephant,Abnormal grouping,5,33,2,64
+Crocodile,Abnormal grouping,9,22,16,63
+Crocodile,Sudden movement,1,28,16,46
+Elephant,Sudden fleeing,9,21,10,76
+Giraffe,Repeated agitation,3,81,30,79
+Flamingo,Unusual silence,6,84,19,77
+Flamingo,Abnormal vocalization,6,9,22,48
+Giraffe,Sudden movement,3,15,15,47
+Giraffe,Unusual silence,9,71,1,76
+Flamingo,Abnormal grouping,8,48,10,72
+Giraffe,Sudden fleeing,7,95,4,100
+Flamingo,Sudden movement,1,12,18,36
+Flamingo,Abnormal grouping,7,64,5,71
+Crocodile,Abnormal grouping,4,55,9,62
+Giraffe,Unusual silence,1,11,10,35
+Elephant,Abnormal vocalization,6,95,5,83
+Elephant,Abnormal grouping,4,65,7,69
+Flamingo,Unusual silence,4,63,12,71
+Giraffe,Sudden movement,9,57,13,90
+Giraffe,Repeated agitation,4,6,9,43
+Elephant,Sudden movement,4,50,5,62
+Crocodile,Abnormal vocalization,2,15,12,42
+Giraffe,Repeated agitation,8,30,3,73
+Crocodile,Sudden fleeing,4,17,5,46
+Crocodile,Burrowing animals emerging,3,55,6,44
+Elephant,Abnormal grouping,3,55,11,60
+Elephant,Repeated agitation,2,9,2,46
+Giraffe,Repeated agitation,5,57,17,67
+Giraffe,Abnormal vocalization,7,68,15,78
+Crocodile,Abnormal vocalization,4,30,10,40
+Giraffe,Abnormal vocalization,7,49,3,75
+Flamingo,Abnormal vocalization,2,87,2,65
+Giraffe,Repeated agitation,5,39,3,72
+Crocodile,Abnormal grouping,2,60,22,54
+Crocodile,Abnormal vocalization,2,66,15,68
+Giraffe,Abnormal grouping,1,44,2,40
+Giraffe,Unusual silence,2,81,3,62
+Elephant,Sudden movement,2,49,8,67
+Flamingo,Sudden movement,2,10,11,43
+Flamingo,Sudden fleeing,9,69,2,87
+Giraffe,Unusual silence,4,89,12,69
+Flamingo,Abnormal grouping,3,95,2,74
+Crocodile,Repeated agitation,9,53,20,80
+Elephant,Unusual silence,10,95,6,97
+Crocodile,Burrowing animals emerging,9,76,39,84
+Crocodile,Sudden movement,5,50,5,64
+Elephant,Burrowing animals emerging,9,15,4,56
+Crocodile,Abnormal grouping,9,18,7,56
+Flamingo,Burrowing animals emerging,3,70,3,49
+Elephant,Burrowing animals emerging,7,86,3,78
+Flamingo,Repeated agitation,6,47,39,74
+Flamingo,Unusual silence,7,47,7,56
+Flamingo,Repeated agitation,7,38,19,74
+Crocodile,Sudden fleeing,1,85,1,65
+Flamingo,Abnormal grouping,1,43,22,43
+Crocodile,Repeated agitation,9,78,11,98
+Flamingo,Sudden movement,7,25,38,67
+Giraffe,Unusual silence,8,42,14,63
+Elephant,Sudden fleeing,2,32,18,61
+Elephant,Abnormal grouping,9,63,1,93
+Flamingo,Abnormal grouping,7,84,15,88
+Elephant,Burrowing animals emerging,8,37,12,55
+Giraffe,Sudden fleeing,8,92,3,94
+Flamingo,Sudden fleeing,5,100,11,90
+Elephant,Sudden movement,2,45,4,40
+Crocodile,Unusual silence,3,44,2,40
+Flamingo,Sudden fleeing,8,9,1,47
+Crocodile,Sudden movement,3,53,14,62
+Elephant,Repeated agitation,3,51,5,66
+Crocodile,Burrowing animals emerging,6,40,7,65
+Elephant,Abnormal vocalization,7,38,7,67
+Flamingo,Abnormal grouping,10,99,17,100
+Elephant,Burrowing animals emerging,10,55,8,87
+Elephant,Sudden movement,3,76,4,65
+Flamingo,Sudden movement,7,15,17,72
+Flamingo,Repeated agitation,6,59,19,84
+Giraffe,Sudden fleeing,9,83,42,100
+Giraffe,Repeated agitation,10,25,7,64
+Giraffe,Sudden fleeing,6,93,10,96
+Giraffe,Abnormal grouping,2,61,4,62
+Giraffe,Unusual silence,5,57,20,69
+Crocodile,Abnormal grouping,9,61,35,91
+Crocodile,Sudden fleeing,5,81,34,93
+Giraffe,Sudden fleeing,9,95,8,100
+Flamingo,Unusual silence,7,33,3,55
+Giraffe,Abnormal vocalization,10,44,5,89
+Flamingo,Abnormal vocalization,3,58,5,58
+Flamingo,Unusual silence,6,72,14,66
+Giraffe,Abnormal grouping,1,15,8,33
+Flamingo,Burrowing animals emerging,9,20,3,62
+Crocodile,Abnormal vocalization,7,53,1,57
+Elephant,Sudden movement,7,7,10,55
+Flamingo,Abnormal grouping,4,44,12,64
+Elephant,Repeated agitation,6,97,14,100
+Flamingo,Abnormal grouping,3,88,6,58
+Giraffe,Burrowing animals emerging,7,77,2,73
+Crocodile,Unusual silence,10,94,3,92
+Crocodile,Sudden movement,9,18,8,67
+Giraffe,Abnormal grouping,3,49,12,61
+Flamingo,Sudden movement,7,54,1,68
+Flamingo,Abnormal grouping,6,24,25,51
+Elephant,Unusual silence,7,10,22,62
+Crocodile,Sudden fleeing,2,98,4,73
+Giraffe,Unusual silence,9,35,17,76
+Giraffe,Unusual silence,3,75,14,66
+Elephant,Unusual silence,1,83,4,53
+Flamingo,Sudden movement,3,53,1,66
+Crocodile,Repeated agitation,4,77,3,68
+Elephant,Sudden movement,7,59,7,78
+Giraffe,Burrowing animals emerging,1,24,9,42
+Elephant,Sudden movement,9,52,2,78
+Flamingo,Burrowing animals emerging,7,69,10,75
+Flamingo,Abnormal grouping,10,69,16,94
+Elephant,Repeated agitation,8,78,4,100
+Crocodile,Burrowing animals emerging,10,40,2,78
+Crocodile,Unusual silence,1,5,8,32
+Crocodile,Abnormal grouping,8,25,10,51
+Flamingo,Repeated agitation,5,16,2,68
+Flamingo,Unusual silence,4,65,21,61
+Elephant,Repeated agitation,3,44,15,69
+Giraffe,Burrowing animals emerging,2,18,2,30
+Elephant,Sudden fleeing,10,65,4,100
+Flamingo,Sudden fleeing,10,11,10,73
+Giraffe,Repeated agitation,4,77,35,81
+Crocodile,Unusual silence,4,50,7,48
+Elephant,Unusual silence,1,9,16,47
+Crocodile,Abnormal vocalization,10,62,9,96
+Flamingo,Abnormal vocalization,7,40,4,55
+Flamingo,Repeated agitation,1,89,5,64
+Giraffe,Unusual silence,1,80,15,65
+Elephant,Abnormal vocalization,4,91,1,77
+Giraffe,Abnormal grouping,8,9,3,52
+Crocodile,Sudden fleeing,7,61,6,79
+Giraffe,Sudden movement,10,96,3,100
+Elephant,Abnormal vocalization,9,62,7,77
+Giraffe,Abnormal grouping,10,17,26,67
+Flamingo,Sudden movement,5,34,5,55
+Elephant,Unusual silence,2,22,3,37
+Flamingo,Abnormal grouping,9,31,6,65
+Flamingo,Sudden movement,8,68,19,84
+Giraffe,Abnormal vocalization,7,55,2,65
+Flamingo,Sudden movement,3,46,7,61
+Giraffe,Abnormal grouping,2,30,13,62
+Flamingo,Repeated agitation,9,27,4,66
+Elephant,Abnormal grouping,9,54,1,77
+Crocodile,Abnormal vocalization,7,20,2,53
+Elephant,Repeated agitation,2,48,5,63
+Crocodile,Burrowing animals emerging,5,77,27,75
+Flamingo,Sudden movement,3,20,1,42
+Giraffe,Repeated agitation,4,5,2,47
+Crocodile,Sudden fleeing,7,49,3,70
+Elephant,Sudden fleeing,5,35,7,74
+Elephant,Unusual silence,3,33,13,53
+Flamingo,Burrowing animals emerging,3,16,2,31
+Flamingo,Sudden fleeing,4,90,4,86
+Giraffe,Repeated agitation,3,72,2,58
+Flamingo,Sudden fleeing,6,80,5,82
+Giraffe,Unusual silence,5,95,3,72
+Flamingo,Repeated agitation,7,45,4,78
+Crocodile,Repeated agitation,3,16,2,35
+Elephant,Abnormal vocalization,10,51,7,93
+Flamingo,Burrowing animals emerging,1,12,24,30
+Elephant,Sudden fleeing,9,32,10,78
+Giraffe,Repeated agitation,3,45,3,49
+Crocodile,Unusual silence,6,69,2,65
+Flamingo,Burrowing animals emerging,6,89,10,73
+Crocodile,Sudden movement,7,41,2,55
+Giraffe,Unusual silence,10,29,8,75
+Elephant,Sudden fleeing,3,9,6,58
+Flamingo,Unusual silence,1,95,12,65
+Crocodile,Abnormal grouping,6,53,22,69
+Flamingo,Abnormal grouping,9,25,3,66
+Flamingo,Sudden movement,2,98,4,77
+Giraffe,Sudden movement,3,48,5,57
+Elephant,Repeated agitation,10,73,8,100
+Giraffe,Abnormal grouping,6,46,6,65
+Crocodile,Sudden movement,3,16,29,51
+Crocodile,Abnormal grouping,1,68,1,46
+Elephant,Abnormal vocalization,9,65,5,100
+Flamingo,Abnormal vocalization,9,29,8,69
+Flamingo,Repeated agitation,4,30,1,55
+Crocodile,Burrowing animals emerging,6,91,27,71
+Crocodile,Unusual silence,8,29,13,65
+Crocodile,Burrowing animals emerging,10,64,19,83
+Crocodile,Unusual silence,2,19,9,35
+Crocodile,Sudden movement,1,16,3,42
+Giraffe,Repeated agitation,2,79,17,71
+Crocodile,Sudden fleeing,2,82,17,60
+Elephant,Abnormal vocalization,3,27,10,46
+Flamingo,Burrowing animals emerging,3,99,5,69
+Crocodile,Sudden movement,5,15,2,54
+Crocodile,Sudden fleeing,2,60,36,69
+Elephant,Unusual silence,8,33,15,73
+Flamingo,Burrowing animals emerging,3,95,14,73
+Elephant,Abnormal grouping,10,29,38,75
+Giraffe,Abnormal vocalization,2,51,7,59
+Flamingo,Abnormal vocalization,5,83,4,72
+Flamingo,Abnormal vocalization,4,68,2,69
+Crocodile,Abnormal grouping,10,67,2,76
+Crocodile,Repeated agitation,7,14,9,58
+Elephant,Sudden movement,1,55,5,51
+Flamingo,Unusual silence,1,100,4,71
+Crocodile,Repeated agitation,8,75,10,87
+Elephant,Burrowing animals emerging,9,28,10,73
+Crocodile,Abnormal grouping,4,25,5,38
+Giraffe,Burrowing animals emerging,2,83,33,69
+Elephant,Sudden fleeing,6,26,9,84
+Crocodile,Unusual silence,9,7,21,53
+Crocodile,Sudden fleeing,6,64,19,78
+Giraffe,Repeated agitation,10,90,2,100
+Giraffe,Sudden movement,7,61,8,82
+Flamingo,Abnormal vocalization,6,7,6,52
+Crocodile,Sudden fleeing,7,9,10,57
+Crocodile,Burrowing animals emerging,2,34,21,32
+Crocodile,Sudden movement,7,90,2,80
+Giraffe,Abnormal grouping,8,38,9,75
+Giraffe,Abnormal grouping,6,74,2,72
+Flamingo,Abnormal vocalization,9,59,8,76
+Flamingo,Repeated agitation,10,49,2,80
+Crocodile,Unusual silence,10,71,1,83
+Elephant,Abnormal grouping,8,96,5,80
+Crocodile,Repeated agitation,3,30,5,50
+Elephant,Burrowing animals emerging,5,66,11,67
+Giraffe,Abnormal grouping,3,64,2,57
+Crocodile,Abnormal vocalization,4,94,14,75
+Elephant,Abnormal grouping,8,65,12,78
+Elephant,Burrowing animals emerging,3,62,4,59
+Flamingo,Burrowing animals emerging,4,16,3,43
+Giraffe,Sudden fleeing,3,65,21,70
+Giraffe,Unusual silence,8,93,9,99
+Elephant,Unusual silence,8,54,4,74
+Elephant,Repeated agitation,6,77,10,86
+Flamingo,Sudden movement,4,5,1,49
+Giraffe,Sudden fleeing,9,25,24,84
+Elephant,Burrowing animals emerging,3,49,6,51
+Giraffe,Unusual silence,2,29,2,27
+Giraffe,Repeated agitation,2,18,5,43
+Flamingo,Unusual silence,7,30,28,58
+Giraffe,Sudden fleeing,10,78,11,100
+Crocodile,Sudden fleeing,8,30,7,84
+Elephant,Abnormal vocalization,8,15,3,68
+Giraffe,Sudden fleeing,6,7,4,59
+Giraffe,Burrowing animals emerging,10,29,12,72
+Crocodile,Burrowing animals emerging,10,30,4,65
+Elephant,Burrowing animals emerging,1,71,2,53
+Crocodile,Repeated agitation,5,42,21,66
+Flamingo,Abnormal vocalization,2,21,29,45
+Crocodile,Abnormal grouping,10,37,14,67
+Crocodile,Sudden movement,1,62,25,54
+Crocodile,Unusual silence,7,19,12,47
+Crocodile,Sudden fleeing,8,99,4,100
+Crocodile,Unusual silence,1,48,5,43
+Giraffe,Sudden fleeing,5,46,6,82
+Elephant,Abnormal vocalization,6,78,12,76
+Elephant,Sudden fleeing,1,40,3,45
+Flamingo,Sudden fleeing,9,82,1,100
+Elephant,Sudden movement,10,5,7,73
+Crocodile,Abnormal vocalization,4,60,10,61
+Crocodile,Abnormal vocalization,9,98,6,92
+Giraffe,Sudden fleeing,9,75,2,94
+Crocodile,Unusual silence,4,73,7,71
+Crocodile,Unusual silence,8,24,4,52
+Flamingo,Abnormal vocalization,5,72,7,79
+Crocodile,Unusual silence,5,31,9,47
+Giraffe,Repeated agitation,5,69,4,70
+Elephant,Abnormal vocalization,7,88,3,97
+Elephant,Abnormal vocalization,10,53,4,86
+Elephant,Sudden fleeing,8,15,6,73
+Elephant,Unusual silence,3,100,6,83
+Crocodile,Repeated agitation,9,56,7,80
+Flamingo,Abnormal grouping,8,86,2,82
+Flamingo,Sudden fleeing,6,89,2,93
+Giraffe,Sudden fleeing,6,9,1,50
+Elephant,Burrowing animals emerging,8,73,5,77
+Crocodile,Abnormal grouping,10,7,9,56
+Elephant,Repeated agitation,5,20,5,58
+Flamingo,Unusual silence,7,25,16,55
+Flamingo,Sudden fleeing,9,79,16,100
+Elephant,Abnormal grouping,3,40,7,53
+Crocodile,Sudden fleeing,2,57,5,50
+Crocodile,Abnormal grouping,4,29,3,50
+Elephant,Sudden movement,4,82,12,74
+Crocodile,Sudden movement,8,39,2,65
+Elephant,Sudden movement,6,14,35,57
+Crocodile,Repeated agitation,6,95,8,85
+Elephant,Burrowing animals emerging,8,51,4,61
+Elephant,Abnormal grouping,9,100,9,100
+Giraffe,Repeated agitation,9,29,10,71
+Giraffe,Abnormal grouping,8,38,6,70
+Flamingo,Burrowing animals emerging,9,26,11,65
+Elephant,Abnormal grouping,10,17,5,62
+Flamingo,Abnormal grouping,3,39,3,43
+Elephant,Unusual silence,6,25,6,56
+Crocodile,Sudden fleeing,6,47,1,57
+Flamingo,Abnormal grouping,2,37,1,35
+Elephant,Unusual silence,5,79,3,80
+Giraffe,Abnormal grouping,5,51,6,56
+Flamingo,Abnormal vocalization,3,57,7,57
+Giraffe,Sudden fleeing,8,73,9,100
+Elephant,Abnormal vocalization,6,88,4,89
+Flamingo,Abnormal grouping,8,62,7,79
+Giraffe,Unusual silence,6,96,2,74
+Crocodile,Unusual silence,7,52,6,61
+Elephant,Sudden fleeing,2,90,11,86
+Flamingo,Burrowing animals emerging,7,86,14,93
+Flamingo,Repeated agitation,5,49,7,72
+Giraffe,Sudden fleeing,4,40,2,61
+Giraffe,Repeated agitation,5,47,9,72
+Crocodile,Repeated agitation,1,31,9,49
+Elephant,Unusual silence,6,91,4,82
+Giraffe,Abnormal vocalization,5,55,5,65
+Flamingo,Sudden movement,2,17,6,42
+Crocodile,Sudden movement,1,73,35,66
+Giraffe,Burrowing animals emerging,3,56,6,62
+Crocodile,Unusual silence,7,19,3,39
+Crocodile,Repeated agitation,3,20,3,41
+Giraffe,Abnormal vocalization,4,42,2,56
+Flamingo,Repeated agitation,8,23,8,74
+Flamingo,Repeated agitation,9,67,2,92
+Giraffe,Unusual silence,5,100,4,78
+Flamingo,Abnormal grouping,7,39,8,58
+Giraffe,Unusual silence,5,78,4,78
+Flamingo,Abnormal grouping,4,12,2,46
+Giraffe,Sudden movement,3,89,10,80
+Crocodile,Burrowing animals emerging,7,21,15,54
+Flamingo,Burrowing animals emerging,8,82,16,89
+Flamingo,Abnormal vocalization,7,80,15,91
+Flamingo,Abnormal grouping,1,9,10,38
+Flamingo,Abnormal vocalization,3,83,22,72
+Crocodile,Sudden fleeing,4,58,12,72
+Crocodile,Abnormal vocalization,10,42,6,73
+Crocodile,Abnormal grouping,8,75,20,85
+Crocodile,Burrowing animals emerging,4,36,6,52
+Elephant,Abnormal vocalization,4,100,13,80
+Giraffe,Unusual silence,2,94,6,67
+Flamingo,Abnormal vocalization,2,19,4,41
+Crocodile,Unusual silence,7,20,3,48
+Giraffe,Sudden movement,6,35,10,66
+Elephant,Repeated agitation,2,91,3,64
+Giraffe,Abnormal vocalization,2,92,6,75
+Crocodile,Unusual silence,1,6,3,27
+Elephant,Unusual silence,2,10,5,38
+Elephant,Sudden movement,5,88,2,80
+Giraffe,Burrowing animals emerging,8,19,10,53
+Giraffe,Repeated agitation,4,96,3,83
+Elephant,Abnormal grouping,8,39,5,69
+Flamingo,Abnormal grouping,10,17,6,73
+Elephant,Burrowing animals emerging,7,58,1,67
+Flamingo,Burrowing animals emerging,8,32,17,63
+Elephant,Sudden fleeing,3,99,8,86
+Elephant,Abnormal grouping,2,64,8,64
+Flamingo,Repeated agitation,1,74,8,61
+Crocodile,Sudden movement,7,28,23,69
+Flamingo,Abnormal grouping,6,50,4,66
+Crocodile,Abnormal grouping,4,65,36,57
+Elephant,Abnormal vocalization,7,100,7,83
+Giraffe,Sudden movement,7,64,3,81
+Crocodile,Abnormal grouping,4,36,3,38
+Giraffe,Abnormal vocalization,4,78,4,75
+Elephant,Unusual silence,2,67,25,59
+Crocodile,Sudden movement,1,34,19,43
+Flamingo,Repeated agitation,1,93,12,68
+Flamingo,Repeated agitation,6,92,11,88
+Crocodile,Repeated agitation,10,39,29,78
+Flamingo,Burrowing animals emerging,2,31,9,35
+Crocodile,Burrowing animals emerging,10,65,4,87
+Elephant,Sudden movement,7,39,14,76
+Elephant,Sudden fleeing,4,12,6,63
+Elephant,Burrowing animals emerging,8,42,19,63
+Elephant,Burrowing animals emerging,4,71,1,61
+Flamingo,Abnormal vocalization,8,71,3,86
+Flamingo,Sudden fleeing,9,49,2,78
+Giraffe,Abnormal vocalization,3,16,13,44
+Elephant,Unusual silence,5,54,4,73
+Crocodile,Abnormal vocalization,7,20,37,60
+Flamingo,Unusual silence,7,82,26,87
+Elephant,Abnormal grouping,1,33,1,37
+Crocodile,Burrowing animals emerging,8,53,20,70
+Crocodile,Repeated agitation,7,93,2,92
+Giraffe,Burrowing animals emerging,9,65,2,80
+Elephant,Sudden movement,3,31,36,71
+Flamingo,Abnormal vocalization,3,69,6,73
+Elephant,Burrowing animals emerging,9,76,2,80
+Elephant,Sudden fleeing,10,34,8,80
+Crocodile,Sudden fleeing,3,91,1,69
+Giraffe,Repeated agitation,1,26,4,48
+Crocodile,Abnormal vocalization,5,68,1,66
+Crocodile,Abnormal grouping,7,67,7,66
+Crocodile,Sudden fleeing,10,43,22,93
+Giraffe,Sudden movement,1,53,10,56
+Crocodile,Repeated agitation,7,78,21,91
+Flamingo,Unusual silence,4,30,6,50
+Crocodile,Repeated agitation,2,91,2,73
+Crocodile,Burrowing animals emerging,4,14,3,39
+Crocodile,Abnormal grouping,3,9,2,39
+Flamingo,Unusual silence,3,50,28,61
+Elephant,Repeated agitation,8,11,14,64
+Elephant,Abnormal vocalization,8,58,5,72
+Crocodile,Repeated agitation,1,57,23,61
+Flamingo,Abnormal vocalization,4,96,37,83
+Crocodile,Sudden fleeing,5,29,34,64
+Elephant,Unusual silence,8,10,9,49
+Crocodile,Sudden fleeing,6,43,6,62
+Elephant,Burrowing animals emerging,10,56,1,83
+Elephant,Sudden fleeing,10,49,45,95
+Elephant,Repeated agitation,10,20,8,80
+Elephant,Repeated agitation,10,75,3,100
+Giraffe,Repeated agitation,3,96,5,81
+Flamingo,Sudden movement,1,12,28,37
+Crocodile,Unusual silence,9,39,9,68
+Giraffe,Burrowing animals emerging,1,14,1,23
+Elephant,Unusual silence,1,53,30,53
+Giraffe,Sudden movement,10,47,6,88
+Elephant,Sudden movement,5,68,19,70
+Elephant,Sudden fleeing,5,82,13,93
+Elephant,Sudden movement,9,50,2,93
+Elephant,Repeated agitation,10,7,2,65
+Giraffe,Abnormal vocalization,7,86,19,82
+Crocodile,Repeated agitation,4,82,12,69
+Flamingo,Abnormal vocalization,4,19,5,46
+Flamingo,Unusual silence,8,91,13,98
+Giraffe,Burrowing animals emerging,1,16,3,27
+Crocodile,Sudden movement,10,89,3,95
+Giraffe,Burrowing animals emerging,5,43,6,67
+Flamingo,Unusual silence,2,56,9,50
+Flamingo,Abnormal grouping,5,22,15,51
+Flamingo,Burrowing animals emerging,8,32,6,57
+Crocodile,Burrowing animals emerging,4,85,15,60
+Crocodile,Abnormal grouping,3,10,16,41
+Elephant,Unusual silence,10,45,9,86
+Crocodile,Unusual silence,10,43,14,69
+Elephant,Burrowing animals emerging,4,41,6,60
+Elephant,Burrowing animals emerging,6,72,2,72
+Giraffe,Sudden movement,7,46,4,76
+Elephant,Sudden movement,6,75,11,80
+Flamingo,Repeated agitation,8,21,2,74
+Crocodile,Sudden fleeing,5,5,2,47
+Elephant,Sudden fleeing,7,44,6,91
+Flamingo,Sudden fleeing,5,19,8,52
+Elephant,Abnormal vocalization,1,20,11,53
+Crocodile,Repeated agitation,1,72,30,67
+Crocodile,Abnormal grouping,9,29,8,65
+Crocodile,Abnormal grouping,10,80,2,96
+Elephant,Abnormal grouping,10,12,8,65
+Flamingo,Burrowing animals emerging,7,87,4,89
+Giraffe,Abnormal grouping,9,38,5,63
+Crocodile,Repeated agitation,10,97,7,100
+Flamingo,Sudden movement,5,18,20,71
+Crocodile,Sudden movement,3,53,6,65
+Flamingo,Abnormal grouping,6,84,9,65
+Flamingo,Sudden movement,5,27,10,51
+Flamingo,Abnormal grouping,6,52,4,61
+Elephant,Repeated agitation,5,52,17,71
+Crocodile,Abnormal grouping,5,51,5,60
+Elephant,Repeated agitation,9,31,21,81
+Giraffe,Abnormal grouping,6,24,3,51
+Crocodile,Repeated agitation,9,50,2,72
+Elephant,Abnormal grouping,9,30,8,76
+Flamingo,Sudden movement,5,96,10,85
+Elephant,Abnormal grouping,10,48,2,77
+Giraffe,Sudden fleeing,4,28,2,62
+Giraffe,Repeated agitation,7,61,5,82
+Crocodile,Abnormal grouping,9,7,5,57
+Flamingo,Unusual silence,10,61,14,97
+Elephant,Abnormal grouping,4,45,15,60
+Crocodile,Burrowing animals emerging,8,50,10,76
+Crocodile,Sudden movement,4,41,2,59
+Flamingo,Sudden movement,7,36,10,66
+Giraffe,Sudden movement,9,35,3,69
+Giraffe,Burrowing animals emerging,1,68,7,46
+Elephant,Unusual silence,2,61,7,57
+Giraffe,Repeated agitation,10,50,8,86
+Giraffe,Repeated agitation,3,30,9,54
+Giraffe,Burrowing animals emerging,9,29,2,64
+Crocodile,Repeated agitation,7,18,8,47
+Crocodile,Burrowing animals emerging,6,54,1,61
+Flamingo,Repeated agitation,2,53,2,61
+Elephant,Abnormal vocalization,7,57,8,72
+Crocodile,Burrowing animals emerging,5,75,10,66
+Elephant,Abnormal grouping,2,6,3,33
+Crocodile,Unusual silence,6,33,10,54
+Crocodile,Burrowing animals emerging,6,23,5,41
+Flamingo,Sudden movement,4,83,3,70
+Elephant,Sudden fleeing,3,81,27,82
+Elephant,Burrowing animals emerging,3,32,5,54
+Elephant,Unusual silence,6,70,14,77
+Crocodile,Unusual silence,9,39,8,61
+Flamingo,Abnormal grouping,5,37,17,57
+Flamingo,Abnormal grouping,9,54,2,82
+Giraffe,Sudden movement,4,80,12,70
+Crocodile,Abnormal grouping,2,79,7,53
+Giraffe,Repeated agitation,9,40,8,79
+Elephant,Sudden fleeing,10,68,4,100
+Giraffe,Repeated agitation,3,71,6,70
+Giraffe,Abnormal vocalization,2,6,4,32
+Flamingo,Abnormal vocalization,9,6,12,51
+Giraffe,Burrowing animals emerging,5,33,8,33
+Giraffe,Repeated agitation,5,10,8,53
+Crocodile,Abnormal grouping,8,68,18,87
+Elephant,Abnormal vocalization,8,9,12,65
+Giraffe,Abnormal grouping,1,63,1,50
+Flamingo,Repeated agitation,8,58,19,91
+Crocodile,Sudden fleeing,3,48,10,58
+Crocodile,Sudden fleeing,6,67,2,77
+Flamingo,Repeated agitation,9,81,10,100
+Flamingo,Abnormal vocalization,7,52,10,73
+Giraffe,Burrowing animals emerging,1,8,3,16

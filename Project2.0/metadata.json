@@ -1,0 +1,8 @@
+{
+  "name": "Remix LIVING LENS — Biological Early Warning Network",
+  "description": "Research-inspired multi-modal wildlife and acoustic sensor fusion prototype for targeted environmental anomaly early warning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

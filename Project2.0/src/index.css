@@ -1,0 +1,134 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #eef2e9;
+    color: #203a30;
+  }
+
+  h1, h2, h3 {
+    font-family: 'Newsreader', Georgia, serif;
+    font-weight: 500;
+    letter-spacing: -0.035em;
+  }
+
+  button, input, select, textarea {
+    font: inherit;
+  }
+}
+
+html[data-theme='dark'] {
+  color-scheme: dark;
+  background: #111b15;
+}
+
+html[data-theme='dark'] body {
+  background-color: #111b15;
+  color: #e2e9df;
+}
+
+html[data-theme='dark'] [class^="bg-[#eef2e9]"],
+html[data-theme='dark'] [class*=" bg-[#eef2e9]"],
+html[data-theme='dark'] [class^="bg-[#f8faf5]"],
+html[data-theme='dark'] [class*=" bg-[#f8faf5]"],
+html[data-theme='dark'] [class^="bg-[#f5f7f1]"],
+html[data-theme='dark'] [class*=" bg-[#f5f7f1]"],
+html[data-theme='dark'] [class^="bg-[#e6ece4]"],
+html[data-theme='dark'] [class*=" bg-[#e6ece4]"],
+html[data-theme='dark'] [class^="bg-[#e3ebe1]"],
+html[data-theme='dark'] [class*=" bg-[#e3ebe1]"] {
+  background-color: #1b2921 !important;
+}
+
+html[data-theme='dark'] [class^="bg-[#dfe9b9]"],
+html[data-theme='dark'] [class*=" bg-[#dfe9b9]"],
+html[data-theme='dark'] [class^="bg-[#dce8b5]"],
+html[data-theme='dark'] [class*=" bg-[#dce8b5]"],
+html[data-theme='dark'] [class^="bg-[#d3e0b1]"],
+html[data-theme='dark'] [class*=" bg-[#d3e0b1]"] {
+  background-color: #354631 !important;
+}
+
+html[data-theme='dark'] [class^="border-[#d4ded2]"],
+html[data-theme='dark'] [class*=" border-[#d4ded2]"],
+html[data-theme='dark'] [class^="border-[#d7dfd4]"],
+html[data-theme='dark'] [class*=" border-[#d7dfd4]"],
+html[data-theme='dark'] [class^="border-[#cbd6ca]"],
+html[data-theme='dark'] [class*=" border-[#cbd6ca]"],
+html[data-theme='dark'] [class^="border-[#dde5db]"],
+html[data-theme='dark'] [class*=" border-[#dde5db]"] {
+  border-color: #35473b !important;
+}
+
+html[data-theme='dark'] [class^="text-[#203a30]"],
+html[data-theme='dark'] [class*=" text-[#203a30]"],
+html[data-theme='dark'] [class^="text-[#19382f]"],
+html[data-theme='dark'] [class*=" text-[#19382f]"],
+html[data-theme='dark'] [class^="text-[#294736]"],
+html[data-theme='dark'] [class*=" text-[#294736]"],
+html[data-theme='dark'] [class^="text-[#345446]"],
+html[data-theme='dark'] [class*=" text-[#345446]"] {
+  color: #e2e9df !important;
+}
+
+html[data-theme='dark'] [class^="text-[#526c60]"],
+html[data-theme='dark'] [class*=" text-[#526c60]"],
+html[data-theme='dark'] [class^="text-[#6d7c70]"],
+html[data-theme='dark'] [class*=" text-[#6d7c70]"],
+html[data-theme='dark'] [class^="text-[#718075]"],
+html[data-theme='dark'] [class*=" text-[#718075]"],
+html[data-theme='dark'] [class^="text-[#839084]"],
+html[data-theme='dark'] [class*=" text-[#839084]"],
+html[data-theme='dark'] [class^="text-[#3e5b4f]"],
+html[data-theme='dark'] [class*=" text-[#3e5b4f]"],
+html[data-theme='dark'] [class^="text-[#68796c]"],
+html[data-theme='dark'] [class*=" text-[#68796c]"] {
+  color: #a9b8aa !important;
+}
+
+html[data-theme='dark'] [class^="text-[#5c753b]"],
+html[data-theme='dark'] [class*=" text-[#5c753b]"],
+html[data-theme='dark'] [class^="text-[#54713f]"],
+html[data-theme='dark'] [class*=" text-[#54713f]"],
+html[data-theme='dark'] [class^="text-[#6e874b]"],
+html[data-theme='dark'] [class*=" text-[#6e874b]"] {
+  color: #bed49a !important;
+}
+
+html[data-theme='dark'] ::-webkit-scrollbar-track {
+  background: #111b15;
+}
+
+html[data-theme='dark'] ::-webkit-scrollbar-thumb {
+  background: #465649;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #eef2e9;
+}
+::-webkit-scrollbar-thumb {
+  background: #c5d0c3;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #97a894;
+}
+
+@keyframes screen-enter {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-screen-in {
+  animation: screen-enter 240ms ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; }
+  .animate-screen-in { animation: none; }
+}
