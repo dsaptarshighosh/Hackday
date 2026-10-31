@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: living-lens
+    runtime: node
+    plan: free
+    rootDir: Project2.0
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
